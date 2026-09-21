@@ -1,0 +1,21 @@
+{
+  "dropAnywhere": "Letakkan file di mana saja di kotak ini",
+  "freePrivate": "Gratis & privat",
+  "files": "file",
+  "file": "file",
+  "resizeLabel": "Ukuran maksimum",
+  "resizeOriginal": "Asli",
+  "pdfCombine": "Gabungkan semua foto menjadi satu PDF",
+  "pdfPage": "Ukuran halaman",
+  "pdfPageImage": "Sama dengan foto",
+  "removeFile": "Hapus file",
+  "zipping": "Menyiapkan ZIP…",
+  "downloadPdf": "Unduh PDF",
+  "losslessNote": "PNG tanpa kehilangan kualitas, jadi tidak ada pengaturan kualitas",
+  "notHeic": "Ini bukan foto HEIC/HEIF, jadi dilewati.",
+  "webpUnsupported": "Browser ini tidak dapat menyimpan WebP. Gunakan Chrome, Edge, atau Firefox, atau pilih JPG atau PNG.",
+  "tooLarge": "Foto terlalu besar untuk memori perangkat Anda. Coba ukuran maksimum yang lebih kecil.",
+  "genericError": "File ini tidak dapat dikonversi. Coba browser lain atau ekspor ulang fotonya.",
+  "addMore": "Tambah foto lagi",
+  "processedLocally": "Dikonversi di perangkat Anda – tidak ada yang diunggah"
+}

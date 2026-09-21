@@ -1,0 +1,21 @@
+{
+  "dropAnywhere": "Dosyaları bu kutunun herhangi bir yerine bırakın",
+  "freePrivate": "Ücretsiz ve gizli",
+  "files": "dosya",
+  "file": "dosya",
+  "resizeLabel": "En büyük boyut",
+  "resizeOriginal": "Orijinal",
+  "pdfCombine": "Tüm fotoğrafları tek PDF’te birleştir",
+  "pdfPage": "Sayfa boyutu",
+  "pdfPageImage": "Fotoğrafla aynı",
+  "removeFile": "Dosyayı kaldır",
+  "zipping": "ZIP hazırlanıyor…",
+  "downloadPdf": "PDF’i indir",
+  "losslessNote": "PNG kayıpsızdır, bu yüzden kalite ayarı yoktur",
+  "notHeic": "Bu bir HEIC/HEIF fotoğrafı değil, atlandı.",
+  "webpUnsupported": "Bu tarayıcı WebP kaydedemiyor. Chrome, Edge veya Firefox kullanın ya da JPG veya PNG seçin.",
+  "tooLarge": "Fotoğraf cihazınızın belleği için çok büyük. Daha küçük bir en büyük boyut deneyin.",
+  "genericError": "Bu dosya dönüştürülemedi. Başka bir tarayıcı deneyin veya fotoğrafı yeniden dışa aktarın.",
+  "addMore": "Daha fazla fotoğraf ekle",
+  "processedLocally": "Cihazınızda dönüştürülür – hiçbir şey yüklenmez"
+}

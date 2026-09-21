@@ -1,0 +1,272 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/cn",
+    "title": "HEIC 转 JPG、PNG 与 WebP 在线转换器 – 100% 免费本地隐私 | HEIC2",
+    "description": "极速将 iPhone HEIC/HEIF 照片在浏览器内转换为 JPG、PNG 和 WebP。支持批量转换、画质调节与 ZIP 打包下载，零服务器上传，保护隐私。",
+    "h1": "秒速将 HEIC 照片转换为 JPG、PNG 或 WebP",
+    "subheading": "将苹果 iPhone 照片拖放至下方。所有图片均通过 WebAssembly 在浏览器本地转换，无需上传至任何云端服务器，保护个人隐私。",
+    "badge": "极速、免费且 100% 浏览器本地私密转换",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "heic转jpg",
+      "heic转png",
+      "heic转webp",
+      "heic在线转换",
+      "苹果照片格式转换"
+    ],
+    "features": [
+      "100% 本地隐私保障（照片绝不离开您的手机或电脑）",
+      "多线程并行批量快速处理",
+      "一键将所有转换好的图片打包为单个 ZIP 文件下载",
+      "支持 50% 至 100% 自定义画质与压缩率调节",
+      "广泛兼容 Windows、安卓设备以及各大网络平台"
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG / JPEG",
+        "compression": "有损压缩（50%-100% 可调）",
+        "transparency": "不支持",
+        "compatibility": "99.9%（所有系统、手机与打印机）",
+        "bestFor": "日常拍摄照片、社交媒体分享、常规备份"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "高保真无损压缩",
+        "transparency": "完美支持（透明 Alpha 通道）",
+        "compatibility": "99%（各大主流桌面与移动平台）",
+        "bestFor": "截图、设计图稿、带有透明背景的素材"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "现代下一代网页格式（有损/无损）",
+        "transparency": "支持",
+        "compatibility": "97%（现代主流浏览器及移动端）",
+        "bestFor": "网站搭建、博客图片加速、极致节省存储空间"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "为什么 iPhone 拍摄的照片格式是 HEIC？",
+        "answer": "从 iOS 11 开始，苹果采用了基于 HEVC 编码的 HEIC（高效图像容器）格式。相比传统 JPG，它能在保持 16 位高色深画质的同时将文件体积缩小近 50%。但许多 Windows 电脑、旧款安卓机和网站无法直接打开 HEIC，因此需要转换为 JPG 或 PNG。"
+      },
+      {
+        "question": "转换过程中我的照片会上传到你们的服务器吗？",
+        "answer": "绝对不会！与传统的云端转换网站不同，HEIC2 Tools 的解码与重编码完全在您的浏览器本地执行。照片数据绝不经过任何外部服务器，真正实现 100% 本地私密与安全。"
+      },
+      {
+        "question": "可以一次性批量转换几十甚至上百张照片吗？",
+        "answer": "当然可以！您可以一次性选中或拖入几十张照片，我们的多核处理引擎会并行转换，并支持一键下载全部转换完成的 ZIP 压缩包。"
+      },
+      {
+        "question": "什么是 HEIC 文件？",
+        "answer": "HEIC 是苹果从 iOS 11 起默认使用的图片格式，采用 HEVC 编码，在相近画质下文件比 JPG 更小，但兼容性不如 JPG。"
+      },
+      {
+        "question": "转换后的文件会保留位置和拍摄信息吗？",
+        "answer": "不会。照片在浏览器中重新绘制并编码，GPS 位置和相机型号等元数据不会保留。"
+      },
+      {
+        "question": "可以一次转换多少张？",
+        "answer": "我们不设限制，实际取决于设备内存。电脑可处理大批量，手机建议每次 20–50 张；内存不足时请减少数量或缩小最大边长。"
+      }
+    ]
+  },
+  "/heic-to-jpg": {
+    "slug": "heic-to-jpg",
+    "path": "/cn/heic-to-jpg",
+    "title": "HEIC 转 JPG 在线免费转换 – 快速批量转换 iPhone 照片 | HEIC2",
+    "description": "轻松在线将苹果 HEIC 照片转换为通用 JPG 格式。本地极速批量转换，自由调节 JPEG 压缩画质，无文件大小限制且零数据上传。",
+    "h1": "HEIC 转 JPG 在线免费转换",
+    "subheading": "将苹果 iPhone 的 HEIC 照片瞬间转换为全球通用的 JPG 格式。享受无损级画质与疾速的本地批量转换体验。",
+    "badge": "最受欢迎 • 全平台通用 JPG 格式",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "heic转jpg",
+      "iphone照片转jpg",
+      "苹果heic转换器",
+      "在线批量heic转jpg"
+    ],
+    "features": [
+      "完美兼容 Windows 照片查看器、安卓及各类智能电视",
+      "灵活的有损画质调节控制，在清晰度与文件体积间取得最佳平衡",
+      "支持并行批量转换并一键打包为 ZIP 下载",
+      "无需安装任何 App，无文件大小限制，免注册使用"
+    ],
+    "faqs": [
+      {
+        "question": "转换为 JPG 会损失照片画质吗？",
+        "answer": "默认情况下，我们将输出画质设定为 92%，肉眼几乎无法察觉任何画质衰减。如果您追求极致清晰度，可以拖动滑块至 100% 进行高画质导出。"
+      },
+      {
+        "question": "转换后的 JPG 可以在 Windows 电脑和安卓手机上打开吗？",
+        "answer": "完全可以！JPG 是目前全球兼容性最广泛的图片格式，几乎所有操作系统、社交软件和打印设备均原生支持。"
+      }
+    ]
+  },
+  "/heic-to-png": {
+    "slug": "heic-to-png",
+    "path": "/cn/heic-to-png",
+    "title": "HEIC 转 PNG 在线无损转换 – 支持透明通道高保真导出 | HEIC2",
+    "description": "在线将 HEIC 照片转换为无损 PNG 格式。保留完整图像细节与透明通道，100% 浏览器本地私密转换，设计师与摄影爱好者的理想工具。",
+    "h1": "HEIC 转 PNG 在线无损转换",
+    "subheading": "将苹果 HEIC 照片转换为清晰细腻的高保真 PNG 图像。全面支持透明背景，适用于图形设计、二次修图与高标准档案保存。",
+    "badge": "无损画质 • 透明通道支持",
+    "defaultFormat": "png",
+    "keywords": [
+      "heic转png",
+      "heic无损转换",
+      "苹果照片转png",
+      "heic透明背景"
+    ],
+    "features": [
+      "100% 像素级无损输出，绝不模糊",
+      "原生支持 Alpha 透明通道",
+      "适用于 Photoshop、Figma 等专业设计软件直接编辑",
+      "零云端上传，完全保护商业素材机密"
+    ],
+    "faqs": [
+      {
+        "question": "为什么要将 HEIC 转换为 PNG 而不是 JPG？",
+        "answer": "PNG 属于完全无损的压缩格式，不仅不会丢失任何像素细节，还支持透明通道，非常适合需要后期修图、设计合成或文字截图等场景。"
+      }
+    ]
+  },
+  "/heic-to-webp": {
+    "slug": "heic-to-webp",
+    "path": "/cn/heic-to-webp",
+    "title": "HEIC 转 WebP 在线转换 – 现代轻量级下一代网页图片格式 | HEIC2",
+    "description": "将 iPhone HEIC 照片转换为现代高效的 WebP 格式。相比 JPG 节省高达 35% 体积，加载极速，完美提升网站打开速度与 SEO 评分。",
+    "h1": "HEIC 转 WebP 在线转换",
+    "subheading": "把 iPhone HEIC 照片转换为轻巧高效的现代 WebP 图片。显著提升网页加载速度，大幅降低带宽消耗，同时保持出色视觉画质。",
+    "badge": "下一代网页标准 • 极致小体积",
+    "defaultFormat": "webp",
+    "keywords": [
+      "heic转webp",
+      "在线heic转webp",
+      "webp转换器",
+      "网站图片优化"
+    ],
+    "features": [
+      "比普通 JPG 文件平均缩小 25% - 35% 存储体积",
+      "Google 官方推荐用于加速网页性能与 SEO 得分",
+      "所有现代浏览器（Chrome、Safari、Edge、Firefox）均原生支持",
+      "支持批量并行输出，适合站长与开发者"
+    ],
+    "faqs": [
+      {
+        "question": "什么是 WebP 格式？它有什么优势？",
+        "answer": "WebP 是 Google 开发的一种专为互联网优化的现代图像格式。在相同的视觉质量下，WebP 的文件体积比传统 JPG 小 25% 至 34%，大幅加快网页加载时间。"
+      }
+    ]
+  },
+  "/batch-heic-converter": {
+    "slug": "batch-heic-converter",
+    "path": "/cn/batch-heic-converter",
+    "title": "批量 HEIC 转换器 – 一次性批量转换数十张 iPhone 照片 | HEIC2",
+    "description": "在浏览器中同时转换多张 HEIC 照片。快速多线程批量转为 JPG、PNG 或 WebP，一键秒下 ZIP 压缩包，完全免费且零云端上传。",
+    "h1": "批量 HEIC 照片转换器",
+    "subheading": "一次性导入大量苹果 iPhone 照片进行批量极速转换。本地硬件并行加速，转换完毕后可一键下载打包的 ZIP 压缩文件。",
+    "badge": "大容量并行处理 • 一键 ZIP 导出",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "批量heic转换器",
+      "多张heic转jpg",
+      "iphone相册批量转换",
+      "heic压缩包打包下载"
+    ],
+    "features": [
+      "支持一次性拖入整个文件夹或数十张照片",
+      "浏览器多线程并行处理，速度飞快",
+      "一键生成并下载 ZIP 压缩归档文件",
+      "完全在本地完成，不消耗手机网络流量与流量费"
+    ],
+    "faqs": [
+      {
+        "question": "批量转换是否有图片张数限制？",
+        "answer": "没有硬性张数限制！因为所有计算都在您本机的内存和 CPU 中进行，您可以随心批量转换 50 张、100 张或更多照片。"
+      }
+    ]
+  },
+  "/privacy-policy": {
+    "slug": "privacy-policy",
+    "path": "/cn/privacy-policy",
+    "title": "隐私政策 – HEIC2",
+    "description": "您的照片永远不会离开您的设备。HEIC2 Tools 100% 在您的浏览器本地完成所有图像格式转换。",
+    "h1": "隐私政策",
+    "subheading": "您的照片永远不会离开您的设备。HEIC2 Tools 100% 在您的浏览器本地完成所有图像格式转换。",
+    "badge": "零上传纯本地隐私架构",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "privacy policy",
+      "heic privacy",
+      "zero upload privacy"
+    ],
+    "features": [
+      "100% Client-Side Processing",
+      "Zero Server Uploads",
+      "No Account Required"
+    ],
+    "faqs": []
+  },
+  "/terms": {
+    "slug": "terms",
+    "path": "/cn/terms",
+    "title": "服务条款 – HEIC2",
+    "description": "使用 HEIC2 Tools 即代表您同意本服务条款。我们的转换器完全免费、不限次数且完全在本地设备运行。",
+    "h1": "服务条款",
+    "subheading": "使用 HEIC2 Tools 即代表您同意本服务条款。我们的转换器完全免费、不限次数且完全在本地设备运行。",
+    "badge": "透明公正的使用协议",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "terms of service",
+      "heic2 tools terms"
+    ],
+    "features": [
+      "Free Personal & Commercial Use",
+      "Full Image Ownership",
+      "Client-Side Execution"
+    ],
+    "faqs": []
+  },
+  "/about": {
+    "slug": "about",
+    "path": "/cn/about",
+    "title": "关于 HEIC2 Tools – HEIC2",
+    "description": "我们创立 HEIC2 Tools 的初衷，是为了彻底解决苹果 HEIC 照片在 Windows、安卓等平台的兼容难题，同时坚决捍卫用户的照片隐私。",
+    "h1": "关于 HEIC2 Tools",
+    "subheading": "我们创立 HEIC2 Tools 的初衷，是为了彻底解决苹果 HEIC 照片在 Windows、安卓等平台的兼容难题，同时坚决捍卫用户的照片隐私。",
+    "badge": "隐私至上的现代图像技术",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "about heic2 tools",
+      "apple heic problem",
+      "webassembly image conversion"
+    ],
+    "features": [
+      "Zero Server Uploads",
+      "Client-Side WebAssembly",
+      "Lightning Fast"
+    ],
+    "faqs": []
+  },
+  "/contact": {
+    "slug": "contact",
+    "path": "/cn/contact",
+    "title": "联系我们与技术支持 – HEIC2",
+    "description": "如果您有任何使用反馈、改进建议或技术合作需求，欢迎随时与我们的工程师团队取得联系。",
+    "h1": "联系我们与技术支持",
+    "subheading": "如果您有任何使用反馈、改进建议或技术合作需求，欢迎随时与我们的工程师团队取得联系。",
+    "badge": "竭诚为您服务",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "contact heic2 tools",
+      "technical support"
+    ],
+    "features": [
+      "Direct Email Support",
+      "24-48h Response Window"
+    ],
+    "faqs": []
+  }
+}

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "privacy",
+    "h2": "Foto Anda tidak keluar dari perangkat",
+    "blocks": [
+      {
+        "t": "p",
+        "text": "HEIC adalah format foto bawaan iPhone dan iPad. Format ini menghemat ruang penyimpanan, tetapi banyak PC Windows, ponsel Android, situs web, dan layanan cetak tidak dapat membukanya. HEIC2 mengubahnya menjadi JPG, PNG, WebP, atau PDF agar foto Anda bisa dipakai di mana saja."
+      },
+      {
+        "t": "p",
+        "text": "Konversi berlangsung di dalam tab browser Anda: dekoder HEIC (libheif yang dikompilasi ke WebAssembly) membaca file di latar belakang, lalu browser mengodekannya ke format yang Anda pilih. Foto tidak dikirim ke server mana pun. Anda bisa memeriksanya sendiri: buka alat pengembang, pilih tab Jaringan (Network), lalu konversi sebuah foto – Anda tidak akan melihat unggahan."
+      }
+    ]
+  },
+  {
+    "id": "formats",
+    "h2": "Format keluaran mana yang dipilih?",
+    "blocks": [
+      {
+        "t": "ul",
+        "items": [
+          "**JPG**: kompatibilitas terbaik, cocok untuk berbagi, email, media sosial, dan mencetak.",
+          "**PNG**: lossless, berguna bila Anda akan terus menyunting, tetapi sering jauh lebih besar daripada JPG.",
+          "**WebP**: file lebih kecil untuk situs web dan blog; sebagian browser seperti Safari mungkin tidak dapat menyimpannya.",
+          "**PDF**: untuk mengirim atau mencetak foto sebagai dokumen; beberapa foto dapat digabung dalam satu PDF."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "quality",
+    "h2": "Cara mendapatkan kualitas terbaik",
+    "blocks": [
+      {
+        "t": "ul",
+        "items": [
+          "Gunakan kualitas 90–92% untuk JPG; pada 100% ukuran file membengkak tanpa perbedaan yang terlihat.",
+          "Untuk file lebih kecil, setel “Ukuran maksimum” ke 2048 px.",
+          "File hasil konversi tidak menyertakan metadata asli (kamera, lokasi GPS). Ini baik untuk privasi; simpan HEIC asli jika Anda membutuhkannya.",
+          "Dari Live Photo, hanya gambar diamnya yang dikonversi."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "problems",
+    "h2": "Jika foto tidak mau dikonversi",
+    "blocks": [
+      {
+        "t": "ol",
+        "items": [
+          "Coba versi terbaru Chrome, Edge, atau Firefox.",
+          "Konversi lebih sedikit foto sekaligus atau kecilkan ukuran maksimum – foto yang sangat besar dapat melebihi memori ponsel.",
+          "Pastikan file benar-benar HEIC, bukan file yang diganti namanya atau hanya tersalin sebagian.",
+          "Jika masih gagal, [hubungi kami](/contact) dengan menyebutkan browser dan sistem operasi Anda."
+        ]
+      }
+    ]
+  }
+]

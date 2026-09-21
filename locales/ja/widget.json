@@ -1,0 +1,21 @@
+{
+  "dropAnywhere": "このボックスのどこにでもファイルをドロップ",
+  "freePrivate": "無料・プライベート",
+  "files": "ファイル",
+  "file": "ファイル",
+  "resizeLabel": "最大サイズ",
+  "resizeOriginal": "元のサイズ",
+  "pdfCombine": "すべての写真を 1 つの PDF にまとめる",
+  "pdfPage": "ページサイズ",
+  "pdfPageImage": "写真と同じ",
+  "removeFile": "ファイルを削除",
+  "zipping": "ZIP を準備中…",
+  "downloadPdf": "PDF をダウンロード",
+  "losslessNote": "PNG は可逆圧縮のため、画質の設定はありません",
+  "notHeic": "HEIC/HEIF 写真ではないため、スキップしました。",
+  "webpUnsupported": "このブラウザでは WebP を保存できません。Chrome・Edge・Firefox を使うか、JPG または PNG を選んでください。",
+  "tooLarge": "写真が大きすぎて端末のメモリに収まりません。最大サイズを小さくしてください。",
+  "genericError": "このファイルを変換できませんでした。別のブラウザを試すか、写真を書き出し直してください。",
+  "addMore": "写真を追加",
+  "processedLocally": "端末上で変換されるため、何もアップロードされません"
+}

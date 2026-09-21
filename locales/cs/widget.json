@@ -1,0 +1,21 @@
+{
+  "dropAnywhere": "Přetáhněte soubory kamkoli do tohoto pole",
+  "freePrivate": "Zdarma a soukromě",
+  "files": "souborů",
+  "file": "soubor",
+  "resizeLabel": "Maximální velikost",
+  "resizeOriginal": "Původní",
+  "pdfCombine": "Spojit všechny fotky do jednoho PDF",
+  "pdfPage": "Velikost stránky",
+  "pdfPageImage": "Podle fotky",
+  "removeFile": "Odebrat soubor",
+  "zipping": "Připravuje se ZIP…",
+  "downloadPdf": "Stáhnout PDF",
+  "losslessNote": "PNG je bezeztrátový, proto zde není nastavení kvality",
+  "notHeic": "Toto není fotka HEIC/HEIF, proto byla přeskočena.",
+  "webpUnsupported": "Tento prohlížeč neumí uložit WebP. Použijte Chrome, Edge nebo Firefox, případně zvolte JPG nebo PNG.",
+  "tooLarge": "Fotka je příliš velká pro paměť vašeho zařízení. Zkuste menší maximální velikost.",
+  "genericError": "Soubor se nepodařilo převést. Zkuste jiný prohlížeč nebo fotku znovu exportujte.",
+  "addMore": "Přidat další fotky",
+  "processedLocally": "Převod probíhá ve vašem zařízení – nic se nenahrává"
+}

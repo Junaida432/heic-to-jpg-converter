@@ -1,0 +1,90 @@
+{
+  "privacyPolicy": {
+    "title": "Política de Privacidad",
+    "badge": "Arquitectura 100% Local sin Subidas",
+    "summary": "Tus fotos nunca salen de tu dispositivo. HEIC2 Tools procesa todos los archivos de imagen de forma 100% local en tu navegador web.",
+    "backBtn": "Volver al Convertidor",
+    "sections": [
+      {
+        "title": "1. Garantía de Cero Subidas al Servidor",
+        "content": "HEIC2 Tools está diseñado con una estricta arquitectura del lado del cliente. Toda la conversión de HEIC/HEIF a JPG, PNG o WebP se ejecuta íntegramente en la memoria de tu navegador usando WebAssembly y HTML5 Canvas. Tus fotos jamás se suben ni se envían a servidores externos."
+      },
+      {
+        "title": "2. Sin Recopilación de Datos Personales",
+        "content": "No requerimos registro de cuenta, correo electrónico ni ningún dato de identificación. Puedes convertir fotos de manera ilimitada y completamente anónima."
+      },
+      {
+        "title": "3. Almacenamiento Local y Manejo Seguro",
+        "content": "Las imágenes seleccionadas residen únicamente en la memoria RAM temporal de tu navegador. Al descargar, los archivos se guardan directamente en tu carpeta de descargas local. Al cerrar la pestaña, todos los datos temporales se destruyen de inmediato."
+      },
+      {
+        "title": "4. Analítica (solo con tu consentimiento)",
+        "content": "Solo cargamos Google Analytics si pulsas «Aceptar» en el aviso de cookies; si lo rechazas, no se envía ningún dato de analítica a Google. Tus fotos y los nombres de los archivos nunca salen de tu navegador."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "badge": "Condiciones Claras y Gratuitas",
+    "summary": "Al utilizar HEIC2 Tools, aceptas estos sencillos términos. Nuestro convertidor es gratuito, ilimitado y funciona localmente en tu ordenador o móvil.",
+    "backBtn": "Volver al Convertidor",
+    "sections": [
+      {
+        "title": "1. Aceptación de los Términos",
+        "content": "Al acceder o usar HEIC2 Tools (www.heic2.tools), aceptas quedar vinculado por estos Términos de Servicio. Si no estás de acuerdo, te pedimos no utilizar el sitio."
+      },
+      {
+        "title": "2. Uso Permitido",
+        "content": "HEIC2 Tools se proporciona como una herramienta gratuita para conversión de formatos tanto para uso personal como comercial. Puedes convertir imágenes de las que seas propietario o tengas autorización legal."
+      },
+      {
+        "title": "3. Exención de Garantías",
+        "content": "El servicio se brinda \"tal cual\" y \"según disponibilidad\". Nos esforzamos por ofrecer conversiones impecables, pero no garantizamos ausencia total de errores en archivos dañados."
+      },
+      {
+        "title": "4. Propiedad Intelectual",
+        "content": "Tú conservas la propiedad total de tus imágenes en todo momento. Al ejecutarse todo en tu dispositivo, no reclamamos ningún derecho sobre tu contenido."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre Nosotros – HEIC2",
+    "badge": "Tecnología Enfocada en Privacidad",
+    "summary": "Creamos HEIC2 Tools para solucionar la incompatibilidad de fotos HEIC de iPhone sin comprometer la privacidad ni la seguridad de tus archivos.",
+    "backBtn": "Volver al Convertidor",
+    "sections": [
+      {
+        "title": "Nuestra Misión",
+        "content": "Desde que Apple introdujo el formato HEIC en iOS 11, millones de usuarios han sufrido para abrir sus fotos en Windows, Android o redes sociales. Los convertidores convencionales exigen subir tus fotos privadas a la nube. Nosotros creamos una alternativa moderna donde las fotos nunca abandonan tu máquina."
+      },
+      {
+        "title": "Cómo Funciona (WebAssembly en el Navegador)",
+        "content": "Utilizamos tecnologías web de vanguardia como WebAssembly y Canvas para decodificar HEIC localmente con la CPU de tu propio dispositivo, re-codificando en JPG, PNG o WebP en cuestión de milisegundos."
+      },
+      {
+        "title": "Por Qué la Conversión Local es Superior",
+        "content": "La conversión local elimina colas de espera en servidores, ahorra consumo de datos móviles y permite descargas masivas en ZIP con máxima privacidad."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contacto y Soporte",
+    "badge": "Estamos para Ayudarte",
+    "summary": "¿Tienes comentarios, sugerencias o requieres asistencia técnica? Escríbenos directamente.",
+    "backBtn": "Volver al Convertidor",
+    "contactEmail": "support@heic2.tools",
+    "emailLabel": "Correo de Soporte:",
+    "responseNotice": "Solemos responder consultas técnicas en un plazo de 24 a 48 horas laborables.",
+    "faqIntro": "Antes de escribirnos, puedes consultar nuestra sección de Preguntas Frecuentes.",
+    "sections": [
+      {
+        "title": "Comentarios y Reporte de Errores",
+        "content": "Si alguna foto HEIC no se procesa correctamente, por favor indícanos tu navegador, sistema operativo y una breve explicación del problema."
+      },
+      {
+        "title": "Consultas Comerciales",
+        "content": "Para integraciones o propuestas de colaboración, escríbenos directamente a nuestro correo oficial."
+      }
+    ]
+  }
+}

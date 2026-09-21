@@ -1,0 +1,61 @@
+[
+  {
+    "id": "privacy",
+    "h2": "Ihre Fotos verlassen Ihr Gerät nicht",
+    "blocks": [
+      {
+        "t": "p",
+        "text": "HEIC ist das Fotoformat, das iPhones und iPads standardmäßig verwenden. Es spart Speicherplatz, doch viele Windows-PCs, Android-Handys, Websites und Druckdienste können es nicht öffnen. HEIC2 wandelt es in JPG, PNG, WebP oder PDF um, damit Ihre Fotos überall funktionieren."
+      },
+      {
+        "t": "p",
+        "text": "Die Umwandlung läuft im Tab Ihres Browsers: Ein HEIC-Decoder (libheif, als WebAssembly kompiliert) liest die Datei im Hintergrund, und der Browser kodiert sie im gewählten Format. Das Foto wird an keinen Server gesendet. Sie können das prüfen: Öffnen Sie die Entwicklertools, wechseln Sie zum Reiter Netzwerk (Network) und wandeln Sie ein Foto um – ein Upload ist nicht zu sehen."
+      }
+    ]
+  },
+  {
+    "id": "formats",
+    "h2": "Welches Ausgabeformat passt?",
+    "blocks": [
+      {
+        "t": "ul",
+        "items": [
+          "**JPG**: höchste Kompatibilität – ideal zum Teilen, für E-Mail, soziale Netzwerke und den Druck.",
+          "**PNG**: verlustfrei, sinnvoll für weitere Bearbeitung, aber oft deutlich größer als JPG.",
+          "**WebP**: kleinere Dateien für Websites und Blogs; manche Browser, etwa Safari, können WebP eventuell nicht speichern.",
+          "**PDF**: zum Versenden oder Drucken von Fotos als Dokument; mehrere Fotos lassen sich in einem PDF bündeln."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "quality",
+    "h2": "So erzielen Sie die beste Qualität",
+    "blocks": [
+      {
+        "t": "ul",
+        "items": [
+          "Stellen Sie JPG auf 90–92 %: Bei 100 % wird die Datei deutlich größer, ohne sichtbaren Unterschied.",
+          "Für kleinere Dateien wählen Sie eine „Maximale Größe“ von 2048 px.",
+          "Die umgewandelten Dateien enthalten keine Original-Metadaten (Kamera, GPS-Standort). Das schützt die Privatsphäre; bewahren Sie das HEIC-Original auf, wenn Sie diese Daten brauchen.",
+          "Von einem Live Photo wird nur das Standbild umgewandelt."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "problems",
+    "h2": "Wenn ein Foto nicht umgewandelt wird",
+    "blocks": [
+      {
+        "t": "ol",
+        "items": [
+          "Versuchen Sie eine aktuelle Version von Chrome, Edge oder Firefox.",
+          "Wandeln Sie weniger Fotos auf einmal um oder verkleinern Sie die maximale Größe – sehr große Fotos können den Speicher eines Handys überschreiten.",
+          "Prüfen Sie, ob die Datei wirklich HEIC ist und nicht umbenannt oder nur teilweise kopiert wurde.",
+          "Klappt es weiterhin nicht, [schreiben Sie uns](/de/contact) mit Browser und Betriebssystem."
+        ]
+      }
+    ]
+  }
+]

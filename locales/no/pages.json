@@ -1,0 +1,81 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/no",
+    "title": "HEIC-konverterer – HEIC til JPG, PNG, WebP og PDF gratis | HEIC2",
+    "description": "Konverter iPhone-bilder i HEIC til JPG, PNG, WebP eller PDF i nettleseren. Bildene forlater aldri enheten din. Massekonvertering og ZIP-nedlasting – gratis, uten konto.",
+    "h1": "Konverter HEIC-bilder til JPG, PNG, WebP eller PDF",
+    "subheading": "Slipp iPhone-bildene dine nedenfor. De konverteres på enheten din, så ingenting lastes opp – ingen konto og ingen vannmerke.",
+    "badge": "",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "heic konverterer",
+      "heic til jpg",
+      "heic til png",
+      "heic til pdf",
+      "iphone bilde jpg"
+    ],
+    "features": [
+      "Konverteres på enheten – bildene lastes ikke opp",
+      "JPG-, PNG-, WebP- og PDF-utdata",
+      "Massekonvertering med ZIP-nedlasting",
+      "Justerbar kvalitet og maksimal størrelse"
+    ],
+    "faqs": [
+      {
+        "question": "Hva er en HEIC-fil?",
+        "answer": "HEIC er bildeformatet Apple har brukt som standard siden iOS 11. Det bruker HEVC-komprimering og er ved tilsvarende bildekvalitet mindre enn JPG, men mindre kompatibelt."
+      },
+      {
+        "question": "Blir bildene mine lastet opp til en server?",
+        "answer": "Nei. HEIC-filen dekodes og kodes på nytt i nettleseren din med WebAssembly. Under fanen Nettverk i utviklerverktøyene kan du selv se at bildet ikke sendes noe sted."
+      },
+      {
+        "question": "Hvilket format bør jeg konvertere til?",
+        "answer": "Er du usikker, velg JPG – det åpnes nesten overalt. Velg PNG for en tapsfri redigeringskopi, WebP for nettsteder og PDF når du trenger et dokument."
+      },
+      {
+        "question": "Reduserer konvertering kvaliteten?",
+        "answer": "JPG er et format med tap, så litt detaljer forsvinner. Ved 90–92 % kvalitet er forskjellen vanskelig å se. PNG beholder de dekodede pikslene nøyaktig."
+      },
+      {
+        "question": "Beholder de konverterte filene posisjon og kamerainformasjon?",
+        "answer": "Nei. Bildet tegnes opp igjen og kodes i nettleseren, så metadata som GPS-posisjon og kameramodell blir ikke med."
+      },
+      {
+        "question": "Hvor mange bilder kan jeg konvertere samtidig?",
+        "answer": "Vi setter ingen grense; enhetens minne avgjør. En datamaskin klarer store grupper, på telefon er 20–50 bilder om gangen passe. Går minnet tomt, konverter færre bilder eller reduser maksimal størrelse."
+      }
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "Med tap (kvalitet 50–100 %)",
+        "transparency": "Nei",
+        "compatibility": "Åpnes på nesten alle enheter, apper og skrivere",
+        "bestFor": "Deling, e-post, sosiale medier, utskrift"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "Tapsfri",
+        "transparency": "Ja",
+        "compatibility": "Åpnes på nesten alle enheter og apper",
+        "bestFor": "Redigering, grafikk, tapsfri kopi"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "Med tap (kvalitet 50–100 %)",
+        "transparency": "Ja",
+        "compatibility": "Moderne nettlesere og mange apper",
+        "bestFor": "Nettsteder og blogger"
+      },
+      {
+        "formatName": "PDF",
+        "compression": "JPEG-bilde på en PDF-side",
+        "transparency": "Nei",
+        "compatibility": "Alle PDF-lesere",
+        "bestFor": "Dokumenter, skjemaer, utskrift"
+      }
+    ]
+  }
+}

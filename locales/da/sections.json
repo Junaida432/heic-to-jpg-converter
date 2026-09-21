@@ -1,0 +1,61 @@
+[
+  {
+    "id": "privacy",
+    "h2": "Dine billeder forlader aldrig din enhed",
+    "blocks": [
+      {
+        "t": "p",
+        "text": "HEIC er det billedformat, som iPhone og iPad bruger som standard. Det sparer lagerplads, men mange Windows-computere, Android-telefoner, websites og trykkerier kan ikke åbne det. HEIC2 konverterer det til JPG, PNG, WebP eller PDF, så dine billeder fungerer overalt."
+      },
+      {
+        "t": "p",
+        "text": "Konverteringen foregår i din browsers fane: en HEIC-dekoder (libheif, kompileret til WebAssembly) læser filen i baggrunden, og browseren koder den i det format, du har valgt. Billedet sendes ikke til nogen server. Du kan selv kontrollere det: åbn udviklerværktøjerne, gå til fanen Netværk (Network), og konvertér et billede – du ser ingen upload."
+      }
+    ]
+  },
+  {
+    "id": "formats",
+    "h2": "Hvilket outputformat skal du vælge?",
+    "blocks": [
+      {
+        "t": "ul",
+        "items": [
+          "**JPG**: bedste kompatibilitet, ideel til deling, e-mail, sociale medier og udskrift.",
+          "**PNG**: tabsfri og nyttig, hvis du skal redigere videre, men ofte meget større end JPG.",
+          "**WebP**: mindre filer til websites og blogs; nogle browsere, fx Safari, kan muligvis ikke gemme WebP.",
+          "**PDF**: til at sende eller udskrive billeder som dokument; flere billeder kan samles i én PDF."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "quality",
+    "h2": "Sådan får du den bedste kvalitet",
+    "blocks": [
+      {
+        "t": "ul",
+        "items": [
+          "Vælg 90–92 % til JPG: ved 100 % bliver filen meget større uden synlig forskel.",
+          "For mindre filer sætter du “Maksimal størrelse” til 2048 px.",
+          "De konverterede filer indeholder ikke de oprindelige metadata (kamera, GPS-placering). Det er godt for privatlivet; behold HEIC-originalerne, hvis du får brug for dem.",
+          "Fra et Live Photo konverteres kun stillbilledet."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "problems",
+    "h2": "Hvis et billede ikke kan konverteres",
+    "blocks": [
+      {
+        "t": "ol",
+        "items": [
+          "Prøv en aktuel version af Chrome, Edge eller Firefox.",
+          "Konvertér færre billeder ad gangen, eller sænk den maksimale størrelse – meget store billeder kan overskride telefonens hukommelse.",
+          "Tjek, at filen virkelig er HEIC og ikke omdøbt eller kun delvist kopieret.",
+          "Virker det stadig ikke? [Kontakt os](/contact) med din browser og dit operativsystem."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "dropAnywhere": "Húzza a fájlokat bárhová a mezőn belül",
+  "freePrivate": "Ingyenes és privát",
+  "files": "fájl",
+  "file": "fájl",
+  "resizeLabel": "Maximális méret",
+  "resizeOriginal": "Eredeti",
+  "pdfCombine": "Az összes fénykép egyesítése egyetlen PDF-be",
+  "pdfPage": "Oldalméret",
+  "pdfPageImage": "A fényképpel megegyező",
+  "removeFile": "Fájl eltávolítása",
+  "zipping": "ZIP előkészítése…",
+  "downloadPdf": "PDF letöltése",
+  "losslessNote": "A PNG veszteségmentes, ezért nincs minőségbeállítás",
+  "notHeic": "Ez nem HEIC/HEIF fénykép, ezért kihagytuk.",
+  "webpUnsupported": "Ez a böngésző nem tud WebP-t menteni. Használjon Chrome-ot, Edge-et vagy Firefoxot, vagy válasszon JPG-t vagy PNG-t.",
+  "tooLarge": "A fénykép túl nagy az eszköz memóriájához. Próbáljon kisebb maximális méretet.",
+  "genericError": "A fájlt nem sikerült átalakítani. Próbáljon másik böngészőt, vagy exportálja újra a fényképet.",
+  "addMore": "További fényképek hozzáadása",
+  "processedLocally": "Az átalakítás az Ön eszközén történik – semmi sem kerül feltöltésre"
+}

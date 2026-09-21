@@ -1,0 +1,81 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/ko",
+    "title": "HEIC 변환기 – HEIC를 JPG, PNG, WebP, PDF로 무료 변환 | HEIC2",
+    "description": "iPhone HEIC 사진을 브라우저에서 JPG, PNG, WebP 또는 PDF로 변환하세요. 사진은 기기 밖으로 나가지 않습니다. 일괄 변환, 크기 조정, ZIP 다운로드를 지원하며 무료입니다.",
+    "h1": "HEIC 사진을 JPG, PNG, WebP, PDF로 변환",
+    "subheading": "iPhone 사진을 아래에 놓기만 하면 됩니다. 변환은 기기에서 이루어지며 업로드되지 않습니다. 계정도 워터마크도 필요 없습니다.",
+    "badge": "",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "heic 변환",
+      "heic jpg 변환",
+      "heic png",
+      "heic pdf",
+      "아이폰 사진 jpg"
+    ],
+    "features": [
+      "기기에서 변환 – 사진은 업로드되지 않음",
+      "JPG, PNG, WebP, PDF 출력",
+      "일괄 변환 및 ZIP 다운로드",
+      "품질과 최대 크기 조절"
+    ],
+    "faqs": [
+      {
+        "question": "HEIC 파일이란 무엇인가요?",
+        "answer": "HEIC는 Apple이 iOS 11부터 기본으로 사용하는 이미지 형식입니다. HEVC 압축을 써서 비슷한 화질에서 JPG보다 작지만 호환성은 낮습니다."
+      },
+      {
+        "question": "사진이 서버에 업로드되나요?",
+        "answer": "아니요. HEIC 파일은 브라우저 안에서 WebAssembly로 디코딩·인코딩됩니다. 개발자 도구의 네트워크 탭에서 사진이 전송되지 않는 것을 직접 확인할 수 있습니다."
+      },
+      {
+        "question": "어떤 형식으로 변환해야 하나요?",
+        "answer": "잘 모르겠다면 JPG를 고르세요. 거의 모든 곳에서 열립니다. 편집용 무손실 사본에는 PNG, 웹사이트용에는 WebP, 문서가 필요할 때는 PDF를 선택하세요."
+      },
+      {
+        "question": "변환하면 화질이 떨어지나요?",
+        "answer": "JPG는 손실 압축이라 약간의 세부 정보가 줄어듭니다. 품질 90–92%에서는 차이를 알아보기 어렵습니다. PNG는 디코딩된 픽셀을 그대로 유지합니다."
+      },
+      {
+        "question": "변환된 파일에 위치와 카메라 정보가 남나요?",
+        "answer": "아니요. 사진이 브라우저에서 다시 그려지고 인코딩되므로 GPS 위치나 카메라 모델 같은 메타데이터는 유지되지 않습니다."
+      },
+      {
+        "question": "한 번에 몇 장까지 변환할 수 있나요?",
+        "answer": "제한은 두지 않으며 기기 메모리에 따라 달라집니다. 컴퓨터는 대량도 처리하고, 휴대폰은 한 번에 20–50장을 권장합니다. 메모리가 부족하면 장수를 줄이거나 최대 크기를 낮추세요."
+      }
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "손실 압축(품질 50–100%)",
+        "transparency": "아니요",
+        "compatibility": "거의 모든 기기·앱·프린터에서 열림",
+        "bestFor": "공유, 이메일, SNS, 인쇄"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "무손실",
+        "transparency": "예",
+        "compatibility": "거의 모든 기기와 앱에서 열림",
+        "bestFor": "편집, 그래픽, 무손실 사본"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "손실 압축(품질 50–100%)",
+        "transparency": "예",
+        "compatibility": "최신 브라우저와 다수의 앱",
+        "bestFor": "웹사이트, 블로그"
+      },
+      {
+        "formatName": "PDF",
+        "compression": "PDF 페이지 안의 JPEG 이미지",
+        "transparency": "아니요",
+        "compatibility": "모든 PDF 뷰어",
+        "bestFor": "문서, 양식, 인쇄"
+      }
+    ]
+  }
+}

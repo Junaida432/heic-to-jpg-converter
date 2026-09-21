@@ -1,0 +1,90 @@
+{
+  "privacyPolicy": {
+    "title": "Datenschutzerklärung",
+    "badge": "Zero-Upload Datenschutz-Architektur",
+    "summary": "Ihre Fotos verlassen niemals Ihr Gerät. HEIC2 Tools verarbeitet alle Bilddateien zu 100% lokal in Ihrem Webbrowser.",
+    "backBtn": "Zurück zum Konverter",
+    "sections": [
+      {
+        "title": "1. Garantie ohne Server-Uploads",
+        "content": "HEIC2 Tools basiert auf einer strikten Client-Side-Architektur. Jede Bildkonvertierung von HEIC/HEIF zu JPG, PNG oder WebP erfolgt ausschließlich im Speicher Ihres Webbrowsers mittels WebAssembly und HTML5 Canvas. Ihre Fotos werden niemals an externe Server übertragen."
+      },
+      {
+        "title": "2. Keine Erfassung persönlicher Daten",
+        "content": "Es ist keine Registrierung und keine E-Mail-Adresse erforderlich. Sie können unbegrenzt viele Fotos vollkommen anonym und kostenlos konvertieren."
+      },
+      {
+        "title": "3. Lokaler Speicher & Dateiintegrität",
+        "content": "Ausgewählte Bilder verbleiben nur im flüchtigen Arbeitsspeicher (RAM). Nach dem Download und Schließen des Browser-Tabs werden alle Daten rückstandslos gelöscht."
+      },
+      {
+        "title": "4. Analyse (nur mit Ihrer Einwilligung)",
+        "content": "Google Analytics wird nur geladen, wenn Sie im Cookie-Hinweis auf „Akzeptieren“ klicken; bei „Ablehnen“ werden keine Analysedaten an Google gesendet. Ihre Fotos und Dateinamen verlassen Ihren Browser nie."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "badge": "Faire & Transparente Bedingungen",
+    "summary": "Durch die Nutzung von HEIC2 Tools erklären Sie sich mit diesen Bedingungen einverstanden. Unser Dienst ist kostenlos und läuft direkt auf Ihrem Rechner.",
+    "backBtn": "Zurück zum Konverter",
+    "sections": [
+      {
+        "title": "1. Geltungsbereich",
+        "content": "Mit dem Zugriff auf HEIC2 Tools (www.heic2.tools) akzeptieren Sie diese Nutzungsbedingungen. Wenn Sie diesen Bedingungen nicht zustimmen, nutzen Sie den Dienst bitte nicht."
+      },
+      {
+        "title": "2. Erlaubte Nutzung",
+        "content": "HEIC2 Tools dient der privaten und geschäftlichen Konvertierung von Bildformaten. Sie dürfen nur Dateien konvertieren, an denen Sie die entsprechenden Urheber- oder Nutzungsrechte besitzen."
+      },
+      {
+        "title": "3. Gewährleistungsausschluss",
+        "content": "Die Bereitstellung erfolgt \"wie besehen\" ohne Mängelgewähr. Wir bemühen uns stets um maximale Qualität, übernehmen jedoch keine Haftung für beschädigte Originaldateien."
+      },
+      {
+        "title": "4. Geistiges Eigentum",
+        "content": "Sie behalten die uneingeschränkten Urheberrechte an all Ihren konvertierten Fotos. Da die Verarbeitung rein lokal auf Ihrem Endgerät stattfindet, erheben wir keinerlei Rechte."
+      }
+    ]
+  },
+  "about": {
+    "title": "Über HEIC2 Tools",
+    "badge": "Datenschutzorientierte Bildtechnologie",
+    "summary": "Wir haben HEIC2 Tools ins Leben gerufen, um Apples HEIC-Inkompatibilität zu beseitigen – ohne dass Sie Ihre privaten Fotos auf fremde Cloud-Server laden müssen.",
+    "backBtn": "Zurück zum Konverter",
+    "sections": [
+      {
+        "title": "Unsere Mission",
+        "content": "Seit Apple mit iOS 11 das HEIC-Format einführte, scheitern viele Anwender daran, Bilder unter Windows oder Android zu öffnen. Die meisten Online-Konverter erfordern das Hochladen persönlicher Bilder ins Internet. HEIC2 Tools beendet dieses Sicherheitsrisiko durch pure lokale Datenverarbeitung."
+      },
+      {
+        "title": "So funktioniert es (In-Browser WebAssembly)",
+        "content": "HEIC2 Tools nutzt moderne Web-Standards wie WebAssembly (Wasm) und HTML5 Canvas. Der Prozessor Ihres Endgeräts übernimmt die Decodierung und wandelt die Daten in Millisekunden in JPG, PNG oder WebP um."
+      },
+      {
+        "title": "Warum 100% lokale Konvertierung überlegen ist",
+        "content": "Keine Warteschlangen, kein Datenvolumen-Verbrauch beim Upload und sofortiger ZIP-Stapeldownload bei absoluter Datensicherheit."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontakt & Support",
+    "badge": "Wir helfen Ihnen gerne",
+    "summary": "Haben Sie Fragen, Feedback oder Anregungen zu HEIC2 Tools? Unser Team freut sich auf Ihre Nachricht.",
+    "backBtn": "Zurück zum Konverter",
+    "contactEmail": "support@heic2.tools",
+    "emailLabel": "Support-E-Mail:",
+    "responseNotice": "Wir antworten auf technische Anfragen in der Regel innerhalb von 24 bis 48 Stunden.",
+    "faqIntro": "Für schnelle Hilfe empfehlen wir einen Blick in unsere FAQ-Sektion.",
+    "sections": [
+      {
+        "title": "Feedback & Fehlerberichte",
+        "content": "Sollte eine bestimmte HEIC-Datei nicht konvertiert werden können, teilen Sie uns bitte Ihren Browser, das Betriebssystem und eine kurze Fehlerbeschreibung mit."
+      },
+      {
+        "title": "Kooperationen",
+        "content": "Für geschäftliche Anfragen und Partnerschaften kontaktieren Sie uns bitte per E-Mail."
+      }
+    ]
+  }
+}

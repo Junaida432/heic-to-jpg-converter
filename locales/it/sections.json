@@ -1,0 +1,61 @@
+[
+  {
+    "id": "privacy",
+    "h2": "Le tue foto non lasciano il tuo dispositivo",
+    "blocks": [
+      {
+        "t": "p",
+        "text": "HEIC è il formato che iPhone e iPad usano per impostazione predefinita. Fa risparmiare spazio, ma molti PC Windows, telefoni Android, siti web e servizi di stampa non riescono ad aprirlo. HEIC2 lo converte in JPG, PNG, WebP o PDF, così le foto funzionano ovunque."
+      },
+      {
+        "t": "p",
+        "text": "La conversione avviene nella scheda del browser: un decodificatore HEIC (libheif, compilato in WebAssembly) legge il file in background e il browser lo codifica nel formato scelto. La foto non viene inviata a nessun server. Puoi verificarlo: apri gli strumenti per sviluppatori, vai alla scheda Rete (Network) e converti una foto — non vedrai alcun caricamento."
+      }
+    ]
+  },
+  {
+    "id": "formats",
+    "h2": "Quale formato di output scegliere?",
+    "blocks": [
+      {
+        "t": "ul",
+        "items": [
+          "**JPG**: massima compatibilità, ideale per condividere, inviare via e-mail, pubblicare sui social e stampare.",
+          "**PNG**: senza perdita, utile se continuerai a modificare, ma spesso molto più pesante di un JPG.",
+          "**WebP**: file più leggeri per siti e blog; alcuni browser, come Safari, potrebbero non riuscire a salvarlo.",
+          "**PDF**: per inviare o stampare le foto come documento; puoi riunire più foto in un unico PDF."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "quality",
+    "h2": "Come ottenere la migliore qualità",
+    "blocks": [
+      {
+        "t": "ul",
+        "items": [
+          "Imposta il JPG tra 90 e 92%: al 100% il file cresce molto senza una differenza visibile.",
+          "Per file più piccoli scegli una «Dimensione massima» di 2048 px.",
+          "I file convertiti non contengono i metadati originali (fotocamera, posizione GPS). È un vantaggio per la privacy; conserva l’HEIC originale se ti servono.",
+          "Di una Live Photo viene convertita solo l’immagine fissa."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "problems",
+    "h2": "Se una foto non si converte",
+    "blocks": [
+      {
+        "t": "ol",
+        "items": [
+          "Prova con una versione recente di Chrome, Edge o Firefox.",
+          "Converti meno foto alla volta o riduci la dimensione massima: le foto molto grandi possono superare la memoria del telefono.",
+          "Verifica che il file sia davvero HEIC e non un file rinominato o copiato solo in parte.",
+          "Se il problema persiste, [scrivici](/it/contact) indicando browser e sistema operativo."
+        ]
+      }
+    ]
+  }
+]

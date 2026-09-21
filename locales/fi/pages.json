@@ -1,0 +1,81 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/fi",
+    "title": "HEIC-muunnin – HEIC JPG-, PNG-, WebP- ja PDF-muotoon | HEIC2",
+    "description": "Muunna iPhonen HEIC-kuvat JPG-, PNG-, WebP- tai PDF-muotoon selaimessa. Kuvat eivät poistu laitteeltasi. Erämuunnos ja ZIP-lataus – ilmainen, ei tiliä.",
+    "h1": "Muunna HEIC-kuvat JPG-, PNG-, WebP- tai PDF-muotoon",
+    "subheading": "Pudota iPhone-kuvasi alle. Ne muunnetaan laitteellasi, joten mitään ei lähetetä – ei tiliä eikä vesileimaa.",
+    "badge": "",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "heic muunnin",
+      "heic jpg",
+      "heic png",
+      "heic pdf",
+      "iphone kuva jpg"
+    ],
+    "features": [
+      "Muunnetaan laitteellasi – kuvia ei lähetetä",
+      "JPG-, PNG-, WebP- ja PDF-tulosteet",
+      "Erämuunnos ja ZIP-lataus",
+      "Säädettävä laatu ja enimmäiskoko"
+    ],
+    "faqs": [
+      {
+        "question": "Mikä on HEIC-tiedosto?",
+        "answer": "HEIC on kuvamuoto, jota Apple on käyttänyt oletuksena iOS 11:stä lähtien. Se käyttää HEVC-pakkausta, joten samalla kuvanlaadulla se on JPG:tä pienempi mutta huonommin yhteensopiva."
+      },
+      {
+        "question": "Lähetetäänkö kuvani palvelimelle?",
+        "answer": "Ei. HEIC-tiedosto puretaan ja koodataan uudelleen selaimessasi WebAssemblyn avulla. Kehittäjätyökalujen Verkko-välilehdellä näet itse, ettei kuvaa lähetetä minnekään."
+      },
+      {
+        "question": "Mihin muotoon minun kannattaa muuntaa?",
+        "answer": "Jos et ole varma, valitse JPG – se aukeaa lähes kaikkialla. Valitse PNG häviöttömään muokkauskopioon, WebP verkkosivuille ja PDF, kun tarvitset asiakirjan."
+      },
+      {
+        "question": "Heikentääkö muuntaminen laatua?",
+        "answer": "JPG on häviöllinen muoto, joten pieni osa yksityiskohdista menetetään. 90–92 %:n laadulla eron huomaa tuskin. PNG säilyttää puretut pikselit tarkasti."
+      },
+      {
+        "question": "Säilyvätkö sijainti ja kameran tiedot muunnetuissa tiedostoissa?",
+        "answer": "Eivät. Kuva piirretään ja koodataan selaimessa uudelleen, joten metatiedot, kuten GPS-sijainti ja kameramalli, eivät siirry mukana."
+      },
+      {
+        "question": "Montako kuvaa voin muuntaa kerralla?",
+        "answer": "Emme aseta rajaa; laitteesi muisti ratkaisee. Tietokone selviää suurista eristä, puhelimella 20–50 kuvaa kerrallaan on sopiva. Jos muisti loppuu, muunna vähemmän kuvia tai pienennä enimmäiskokoa."
+      }
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "Häviöllinen (laatu 50–100 %)",
+        "transparency": "Ei",
+        "compatibility": "Aukeaa lähes kaikilla laitteilla, sovelluksilla ja tulostimilla",
+        "bestFor": "Jakaminen, sähköposti, sosiaalinen media, tulostus"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "Häviötön",
+        "transparency": "Kyllä",
+        "compatibility": "Aukeaa lähes kaikilla laitteilla ja sovelluksilla",
+        "bestFor": "Muokkaus, grafiikka, häviötön kopio"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "Häviöllinen (laatu 50–100 %)",
+        "transparency": "Kyllä",
+        "compatibility": "Nykyaikaiset selaimet ja monet sovellukset",
+        "bestFor": "Verkkosivut ja blogit"
+      },
+      {
+        "formatName": "PDF",
+        "compression": "JPEG-kuva PDF-sivulla",
+        "transparency": "Ei",
+        "compatibility": "Kaikki PDF-lukijat",
+        "bestFor": "Asiakirjat, lomakkeet, tulostus"
+      }
+    ]
+  }
+}

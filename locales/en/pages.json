@@ -1,0 +1,433 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/",
+    "title": "HEIC Converter – HEIC to JPG, PNG, WebP & PDF, Free | HEIC2",
+    "description": "Convert iPhone HEIC photos to JPG, PNG, WebP or PDF in your browser. Photos never leave your device. Batch convert, resize and download a ZIP – free, no sign-up.",
+    "h1": "Convert HEIC photos to JPG, PNG, WebP or PDF",
+    "subheading": "Drop your iPhone photos below. They are converted on your device, so nothing is uploaded – no account, no watermark, no per-file fees.",
+    "badge": "",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "heic converter",
+      "heic to jpg",
+      "heic to png",
+      "heic to webp",
+      "heic to pdf",
+      "convert heic online"
+    ],
+    "features": [
+      "Converts on your device – photos are never uploaded",
+      "JPG, PNG, WebP and PDF output",
+      "Batch conversion with one ZIP download",
+      "Adjustable quality and maximum size"
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "Lossy (quality 50–100%)",
+        "transparency": "No",
+        "compatibility": "Opens on virtually every device, app and printer",
+        "bestFor": "Sharing, email, social media, printing"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "Lossless",
+        "transparency": "Yes",
+        "compatibility": "Opens on virtually every device and app",
+        "bestFor": "Editing, graphics, lossless copies"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "Lossy (quality 50–100%)",
+        "transparency": "Yes",
+        "compatibility": "Modern browsers and many apps",
+        "bestFor": "Websites and blogs"
+      },
+      {
+        "formatName": "PDF",
+        "compression": "JPEG image inside a PDF page",
+        "transparency": "No",
+        "compatibility": "Any PDF reader",
+        "bestFor": "Documents, forms, printing"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is a HEIC file?",
+        "answer": "HEIC is the image format iPhones and iPads use by default since iOS 11. It is a HEIF container with the photo compressed using the HEVC codec, which keeps files smaller than JPEG at similar visual quality. The catch is compatibility: many Windows PCs, Android phones, websites and print services cannot open it without extra software."
+      },
+      {
+        "question": "Are my photos uploaded to a server?",
+        "answer": "No. The HEIC file is decoded and re-encoded inside your browser using WebAssembly. You can check this yourself: open your browser’s developer tools, switch to the Network tab and convert a photo – you will not see the photo being sent anywhere."
+      },
+      {
+        "question": "Which format should I convert my HEIC photos to?",
+        "answer": "Choose JPG if you are not sure – it opens almost everywhere. Choose PNG for lossless editing copies, WebP for photos you will publish on a website, and PDF when a form or printer needs a document."
+      },
+      {
+        "question": "Is there a limit on the number or size of files?",
+        "answer": "HEIC2 does not set a limit. In practice your device’s memory decides: computers handle large batches easily, while phones do better with smaller batches. If a tab runs out of memory, convert fewer photos at once or pick a smaller maximum size."
+      },
+      {
+        "question": "Does converting HEIC to JPG reduce quality?",
+        "answer": "JPG is a lossy format, so a little detail is discarded when the photo is saved. At 90–92% quality the difference is very hard to see. PNG output keeps exactly the pixels decoded from the HEIC, although it cannot bring back detail already lost when the phone saved the HEIC."
+      },
+      {
+        "question": "Do converted files keep the location and camera details?",
+        "answer": "No. The photo is re-drawn and re-encoded in your browser, so metadata such as GPS location and camera model is not carried over. That is good for privacy; if you need that information, keep the original HEIC file."
+      },
+      {
+        "question": "Why do iPhones save photos as HEIC?",
+        "answer": "Apple introduced HEIF and HEVC support with iOS 11 because they use less storage space than JPEG and H.264 while keeping the same visual quality, according to Apple. You can switch the camera back to JPEG in Settings > Camera > Formats > Most Compatible."
+      },
+      {
+        "question": "What happens to Live Photos?",
+        "answer": "The converter saves the still image of a Live Photo. The short video that accompanies it is not included in the JPG, PNG, WebP or PDF output."
+      }
+    ]
+  },
+  "/heic-to-jpg": {
+    "slug": "heic-to-jpg",
+    "path": "/heic-to-jpg",
+    "title": "HEIC to JPG Converter – Free, Private, No Upload | HEIC2",
+    "description": "Convert HEIC to JPG online in seconds. It runs in your browser, so photos are never uploaded. Set the quality, resize, batch convert and download a ZIP.",
+    "h1": "HEIC to JPG converter",
+    "subheading": "Turn iPhone HEIC photos into JPG files that open on Windows, Android, websites and printers. Converted on your device, never uploaded.",
+    "badge": "Most popular",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "heic to jpg",
+      "convert heic to jpg",
+      "heic to jpeg",
+      "iphone photo to jpg",
+      "batch heic to jpg"
+    ],
+    "features": [
+      "JPG output that opens everywhere",
+      "Quality from 50% to 100% (default 92%)",
+      "Optional maximum size for smaller files",
+      "Batch convert and download a ZIP"
+    ],
+    "tableData": [
+      {
+        "formatName": "HEIC (your photo)",
+        "compression": "HEVC-based, very efficient",
+        "transparency": "Supported by the format",
+        "compatibility": "Apple devices; other systems often need extra software",
+        "bestFor": "Storing photos on an iPhone"
+      },
+      {
+        "formatName": "JPG (converted)",
+        "compression": "Lossy (quality 50–100%)",
+        "transparency": "No",
+        "compatibility": "Opens on virtually every device, app and printer",
+        "bestFor": "Sharing, email, uploads, printing"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How do I convert HEIC to JPG without installing software?",
+        "answer": "Open this page in any modern browser (Chrome, Edge, Firefox or Safari), drop your .heic or .heif files into the box and choose JPG. Click Convert, then download each file or all of them as a ZIP. Nothing needs to be installed."
+      },
+      {
+        "question": "What quality setting should I use for JPG?",
+        "answer": "The default of 92% is a good balance for everyday use. Use 85% for email and messaging, and 100% only if you plan to edit the file further – it makes the file much larger for little visible gain."
+      },
+      {
+        "question": "Will the JPG be bigger than the HEIC?",
+        "answer": "Usually yes. HEIC is more efficient than JPG, so a JPG of similar visual quality is typically noticeably larger. Lower the quality slightly or set a maximum size if file size matters."
+      },
+      {
+        "question": "Is JPG the same as JPEG?",
+        "answer": "Yes. JPG and JPEG are the same format; the three-letter extension comes from older systems that limited extensions to three characters. This tool saves files with the .jpg extension, which every app accepts."
+      },
+      {
+        "question": "Can I make my iPhone save JPG instead of HEIC?",
+        "answer": "Yes. Open Settings > Camera > Formats and choose Most Compatible. New photos are then saved as JPEG. Photos you already took stay as HEIC, so you can still convert them here."
+      },
+      {
+        "question": "Do I need to convert photos before sending them to someone?",
+        "answer": "Often not. When you share a photo from your iPhone through many apps, iOS can send a compatible version automatically. Conversion matters most when you copy the original files to a computer or upload them to a website that rejects HEIC."
+      },
+      {
+        "question": "Are my photos safe?",
+        "answer": "The conversion happens inside your browser and the photos are never uploaded, so they stay on your device."
+      }
+    ]
+  },
+  "/heic-to-png": {
+    "slug": "heic-to-png",
+    "path": "/heic-to-png",
+    "title": "HEIC to PNG Converter – Lossless, No Upload | HEIC2",
+    "description": "Convert HEIC to PNG online without uploading your photos. Lossless output for editing and design work. Batch convert and download everything as a ZIP.",
+    "h1": "HEIC to PNG converter",
+    "subheading": "Save iPhone HEIC photos as lossless PNG files for editing and design tools. Converted in your browser – nothing is uploaded.",
+    "badge": "Lossless",
+    "defaultFormat": "png",
+    "keywords": [
+      "heic to png",
+      "convert heic to png",
+      "heic to png lossless",
+      "iphone photo to png",
+      "batch heic to png"
+    ],
+    "features": [
+      "Lossless PNG output – no quality slider needed",
+      "Works with Photoshop, Figma, Canva and other editors",
+      "Optional maximum size to keep files manageable",
+      "Batch convert and download a ZIP"
+    ],
+    "tableData": [
+      {
+        "formatName": "HEIC (your photo)",
+        "compression": "HEVC-based, very efficient",
+        "transparency": "Supported by the format",
+        "compatibility": "Apple devices; other systems often need extra software",
+        "bestFor": "Storing photos on an iPhone"
+      },
+      {
+        "formatName": "PNG (converted)",
+        "compression": "Lossless (DEFLATE)",
+        "transparency": "Yes (alpha channel)",
+        "compatibility": "Opens on virtually every device, app and browser",
+        "bestFor": "Editing, graphics, lossless working copies"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "When should I choose PNG instead of JPG?",
+        "answer": "Choose PNG when you will keep editing the image, when you need a lossless copy of the decoded pixels, or when a design tool or workflow specifically asks for PNG. For simply sharing photos, JPG is smaller and just as compatible."
+      },
+      {
+        "question": "Why is the PNG so much bigger than the HEIC?",
+        "answer": "PNG stores every pixel without lossy compression, while HEIC uses advanced lossy compression. A photo saved as PNG is often several times larger than the same photo as HEIC or JPG."
+      },
+      {
+        "question": "Is HEIC to PNG really lossless?",
+        "answer": "The PNG stores exactly the pixels decoded from the HEIC, with no further loss. But the HEIC itself was already compressed by the phone, so PNG cannot restore detail that was discarded at that stage."
+      },
+      {
+        "question": "Will my PNG have a transparent background?",
+        "answer": "Ordinary iPhone photos do not contain transparent areas, so choosing PNG will not add transparency. PNG simply keeps the picture lossless."
+      },
+      {
+        "question": "Is there a quality setting for PNG?",
+        "answer": "No. PNG is lossless, so the quality slider is hidden. To reduce the file size, use the Max size option to scale the photo down."
+      },
+      {
+        "question": "Can I convert many HEIC files to PNG at once?",
+        "answer": "Yes. Add as many files as your device can handle, convert them all, and download the results as one ZIP. Because PNG files are large, convert in smaller batches on a phone."
+      }
+    ]
+  },
+  "/heic-to-webp": {
+    "slug": "heic-to-webp",
+    "path": "/heic-to-webp",
+    "title": "HEIC to WebP Converter – Smaller Web Images | HEIC2",
+    "description": "Convert HEIC to WebP in your browser and cut image file size for websites and blogs. Private (no upload), batch-ready, with adjustable quality.",
+    "h1": "HEIC to WebP converter",
+    "subheading": "Convert iPhone HEIC photos to WebP for faster websites and blogs. Done in your browser – nothing is uploaded.",
+    "badge": "For websites",
+    "defaultFormat": "webp",
+    "keywords": [
+      "heic to webp",
+      "convert heic to webp",
+      "heic to webp online",
+      "batch heic to webp",
+      "iphone photo to webp"
+    ],
+    "features": [
+      "Smaller files than JPG for web use",
+      "Adjustable quality and maximum size",
+      "Works in Chrome, Edge and Firefox",
+      "Batch convert and download a ZIP"
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "Lossy",
+        "transparency": "No",
+        "compatibility": "Universal",
+        "bestFor": "Sharing anywhere"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "Lossy or lossless (this tool saves lossy)",
+        "transparency": "Yes",
+        "compatibility": "Modern browsers and many apps",
+        "bestFor": "Websites, blogs, online shops"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Why convert HEIC to WebP?",
+        "answer": "WebP was designed for the web. Google reports that WebP images are 25–34% smaller than comparable JPEGs at the same quality, which helps pages load faster."
+      },
+      {
+        "question": "Which browsers can save WebP files?",
+        "answer": "Chrome, Edge and Firefox can encode WebP. Some browsers, notably Safari, may not be able to. If your browser cannot, the converter tells you instead of producing a mislabelled file – switch browser or choose JPG or PNG."
+      },
+      {
+        "question": "Can every website and app open WebP?",
+        "answer": "All current major browsers can display WebP. Some older apps, email clients, print services and image editors still cannot, so keep a JPG copy if the file has to work everywhere."
+      },
+      {
+        "question": "What WebP quality should I choose for the web?",
+        "answer": "A quality of 75–85% is a common range for web photos, and a maximum size of 1600–2048 pixels on the long side is enough for most layouts."
+      },
+      {
+        "question": "Does this create lossy or lossless WebP?",
+        "answer": "Lossy WebP, using the quality slider. If you need a lossless copy, choose PNG instead."
+      },
+      {
+        "question": "Will WebP help my SEO?",
+        "answer": "Smaller images can make pages load faster, and page speed is one of the signals Google looks at. Image size alone will not rank a page, but it removes a common performance problem."
+      }
+    ]
+  },
+  "/batch-heic-converter": {
+    "slug": "batch-heic-converter",
+    "path": "/batch-heic-converter",
+    "title": "Batch HEIC Converter – Convert Many Photos at Once | HEIC2",
+    "description": "Convert many HEIC photos to JPG, PNG, WebP or PDF in one go. Everything runs in your browser – nothing is uploaded. Download the results as a single ZIP.",
+    "h1": "Batch HEIC converter",
+    "subheading": "Add a whole folder of iPhone photos, convert them together and download one ZIP. Files stay on your device.",
+    "badge": "Bulk & ZIP",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "batch heic converter",
+      "bulk heic to jpg",
+      "convert multiple heic files",
+      "heic to jpg batch",
+      "heic converter zip"
+    ],
+    "features": [
+      "Add many files at once",
+      "Per-file progress; one failure does not stop the rest",
+      "One ZIP download with the results",
+      "Set the same format, quality and size for the whole batch"
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "Lossy",
+        "transparency": "No",
+        "compatibility": "Universal",
+        "bestFor": "Most batches"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "Lossless",
+        "transparency": "Yes",
+        "compatibility": "Universal",
+        "bestFor": "Editing batches (large files)"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "Lossy",
+        "transparency": "Yes",
+        "compatibility": "Modern browsers",
+        "bestFor": "Website image batches"
+      },
+      {
+        "formatName": "PDF",
+        "compression": "JPEG inside PDF",
+        "transparency": "No",
+        "compatibility": "Any PDF reader",
+        "bestFor": "One combined document"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How many HEIC photos can I convert at once?",
+        "answer": "HEIC2 does not limit the number. Your device’s memory is the real limit: a laptop or desktop can handle large batches, while a phone is happier with 20–50 photos at a time. If a tab slows down or reloads, convert fewer photos per batch."
+      },
+      {
+        "question": "Are photos converted in parallel?",
+        "answer": "One after another. Converting a photo needs a lot of memory, so a queue keeps your browser stable. Each file shows its own status, and one failing file does not stop the rest."
+      },
+      {
+        "question": "How do I select a whole folder?",
+        "answer": "Click Select files, open the folder, press Ctrl+A (⌘+A on Mac) to select everything and confirm. You can also drag a group of selected files into the box."
+      },
+      {
+        "question": "How do I download all the converted photos?",
+        "answer": "Use the Download all (ZIP) button. The ZIP contains every converted file. If two photos have the same name, the second is saved with (2) added so nothing is overwritten."
+      },
+      {
+        "question": "Can I combine a batch into one PDF?",
+        "answer": "Yes. Choose PDF as the format and switch on Combine all photos into one PDF. Pages follow the order of the list."
+      },
+      {
+        "question": "How can I make a big batch faster?",
+        "answer": "Set a Max size such as 2048 px. Smaller photos encode faster and produce smaller downloads. Close other heavy tabs, and on a phone keep the screen awake while the batch runs."
+      }
+    ]
+  },
+  "/heic-to-pdf": {
+    "slug": "heic-to-pdf",
+    "path": "/heic-to-pdf",
+    "title": "HEIC to PDF Converter – Combine Photos into One PDF | HEIC2",
+    "description": "Turn HEIC photos into a PDF without uploading them. Combine many photos into one PDF or get one PDF per photo. Choose A4, Letter or the photo’s own size.",
+    "h1": "HEIC to PDF converter",
+    "subheading": "Put iPhone photos into a PDF – one file or one per photo. Built in your browser, never uploaded.",
+    "badge": "New",
+    "defaultFormat": "pdf",
+    "keywords": [
+      "heic to pdf",
+      "convert heic to pdf",
+      "combine heic to pdf",
+      "heic to pdf online",
+      "iphone photo to pdf"
+    ],
+    "features": [
+      "Combine many photos into one PDF",
+      "A4, Letter or same-as-photo pages",
+      "Landscape photos get landscape pages",
+      "Nothing is uploaded"
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "Lossy",
+        "transparency": "No",
+        "compatibility": "Universal",
+        "bestFor": "Single photos"
+      },
+      {
+        "formatName": "PDF (from HEIC)",
+        "compression": "JPEG image inside a PDF page",
+        "transparency": "No",
+        "compatibility": "Any PDF reader",
+        "bestFor": "Forms, uploads, printing, several photos in one file"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can I combine several HEIC photos into one PDF?",
+        "answer": "Yes. Choose PDF, add your photos and switch on Combine all photos into one PDF. Each photo gets its own page, in the order shown in the list."
+      },
+      {
+        "question": "What page sizes are available?",
+        "answer": "A4, US Letter, or the same size as the photo. A4 and Letter fit the photo on the page with a small margin and turn the page to landscape for wide photos."
+      },
+      {
+        "question": "What quality are the photos inside the PDF?",
+        "answer": "Each photo is stored as a JPEG at the quality you choose (default 92%). Use a lower quality or a smaller Max size to reduce the PDF’s file size."
+      },
+      {
+        "question": "Is the PDF searchable?",
+        "answer": "No. The PDF contains photos, not text. This tool does not perform OCR."
+      },
+      {
+        "question": "Are my photos uploaded to create the PDF?",
+        "answer": "No. The PDF is assembled in your browser, and the photos never leave your device."
+      },
+      {
+        "question": "Can I change the order of the pages?",
+        "answer": "Pages follow the order of the list. To change the order, remove the files and add them again in the order you want."
+      }
+    ]
+  }
+}

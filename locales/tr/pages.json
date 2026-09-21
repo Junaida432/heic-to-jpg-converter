@@ -1,0 +1,81 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/tr",
+    "title": "HEIC Dönüştürücü – HEIC’i JPG, PNG, WebP, PDF’e Çevirin | HEIC2",
+    "description": "iPhone HEIC fotoğraflarını tarayıcıda JPG, PNG, WebP veya PDF’e dönüştürün. Fotoğraflar cihazınızdan çıkmaz. Toplu dönüştürme ve ZIP indirme – ücretsiz.",
+    "h1": "HEIC fotoğrafları JPG, PNG, WebP veya PDF’e dönüştürün",
+    "subheading": "iPhone fotoğraflarınızı aşağıya bırakın. Dönüştürme cihazınızda yapılır, hiçbir şey yüklenmez; hesap da filigran da yok.",
+    "badge": "",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "heic dönüştürücü",
+      "heic jpg çevir",
+      "heic png",
+      "heic pdf",
+      "iphone fotoğraf jpg"
+    ],
+    "features": [
+      "Cihazınızda dönüştürür – fotoğraflar yüklenmez",
+      "JPG, PNG, WebP ve PDF çıktısı",
+      "Toplu dönüştürme ve ZIP indirme",
+      "Ayarlanabilir kalite ve en büyük boyut"
+    ],
+    "faqs": [
+      {
+        "question": "HEIC dosyası nedir?",
+        "answer": "HEIC, Apple’ın iOS 11’den beri varsayılan olarak kullandığı görüntü biçimidir. HEVC sıkıştırması kullandığı için benzer görüntü kalitesinde JPG’den küçüktür ama uyumluluğu daha düşüktür."
+      },
+      {
+        "question": "Fotoğraflarım sunucuya yükleniyor mu?",
+        "answer": "Hayır. HEIC dosyası tarayıcınızın içinde WebAssembly ile çözülüp yeniden kodlanır. Geliştirici araçlarının Ağ sekmesinde fotoğrafın hiçbir yere gönderilmediğini kendiniz görebilirsiniz."
+      },
+      {
+        "question": "Hangi biçime dönüştürmeliyim?",
+        "answer": "Emin değilseniz JPG seçin; hemen her yerde açılır. Düzenleme için kayıpsız kopya gerekiyorsa PNG, web siteleri için WebP, belge gerektiğinde PDF seçin."
+      },
+      {
+        "question": "Dönüştürmek kaliteyi düşürür mü?",
+        "answer": "JPG kayıplı bir biçimdir, bu yüzden bir miktar ayrıntı atılır. %90–92 kalitede fark çok zor fark edilir. PNG ise çözülen pikselleri olduğu gibi korur."
+      },
+      {
+        "question": "Dönüştürülen dosyalar konumu ve kamera bilgisini korur mu?",
+        "answer": "Hayır. Fotoğraf tarayıcıda yeniden çizilip kodlandığı için GPS konumu ve kamera modeli gibi meta veriler taşınmaz."
+      },
+      {
+        "question": "Aynı anda kaç fotoğraf dönüştürebilirim?",
+        "answer": "Bir sınır koymuyoruz; belirleyici olan cihazınızın belleğidir. Bilgisayar büyük gruplarla başa çıkar, telefonda bir seferde 20–50 fotoğraf önerilir. Bellek yetmezse daha az fotoğraf dönüştürün veya en büyük boyutu küçültün."
+      }
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "Kayıplı (kalite %50–100)",
+        "transparency": "Hayır",
+        "compatibility": "Hemen her cihaz, uygulama ve yazıcıda açılır",
+        "bestFor": "Paylaşım, e-posta, sosyal medya, baskı"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "Kayıpsız",
+        "transparency": "Evet",
+        "compatibility": "Hemen her cihaz ve uygulamada açılır",
+        "bestFor": "Düzenleme, grafik, kayıpsız kopya"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "Kayıplı (kalite %50–100)",
+        "transparency": "Evet",
+        "compatibility": "Modern tarayıcılar ve birçok uygulama",
+        "bestFor": "Web siteleri ve bloglar"
+      },
+      {
+        "formatName": "PDF",
+        "compression": "PDF sayfasında JPEG görüntü",
+        "transparency": "Hayır",
+        "compatibility": "Her PDF okuyucu",
+        "bestFor": "Belgeler, formlar, baskı"
+      }
+    ]
+  }
+}

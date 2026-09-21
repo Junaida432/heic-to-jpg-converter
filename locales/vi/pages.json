@@ -1,0 +1,81 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/vi",
+    "title": "Chuyển HEIC sang JPG, PNG, WebP, PDF Miễn Phí | HEIC2",
+    "description": "Chuyển ảnh HEIC của iPhone sang JPG, PNG, WebP hoặc PDF ngay trong trình duyệt. Ảnh không rời khỏi thiết bị. Chuyển hàng loạt, tải ZIP – miễn phí.",
+    "h1": "Chuyển ảnh HEIC sang JPG, PNG, WebP hoặc PDF",
+    "subheading": "Thả ảnh iPhone của bạn vào bên dưới. Ảnh được chuyển đổi ngay trên thiết bị nên không có gì bị tải lên – không cần tài khoản, không có watermark.",
+    "badge": "",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "chuyển heic sang jpg",
+      "đổi đuôi heic",
+      "heic sang png",
+      "heic sang pdf",
+      "ảnh iphone jpg"
+    ],
+    "features": [
+      "Chuyển đổi trên thiết bị – ảnh không bị tải lên",
+      "Xuất JPG, PNG, WebP và PDF",
+      "Chuyển hàng loạt và tải một tệp ZIP",
+      "Tùy chỉnh chất lượng và kích thước tối đa"
+    ],
+    "faqs": [
+      {
+        "question": "Tệp HEIC là gì?",
+        "answer": "HEIC là định dạng ảnh Apple dùng mặc định từ iOS 11. Nó dùng nén HEVC nên với chất lượng hình ảnh tương đương thì nhỏ hơn JPG, nhưng kém tương thích hơn."
+      },
+      {
+        "question": "Ảnh của tôi có bị tải lên máy chủ không?",
+        "answer": "Không. Tệp HEIC được giải mã và mã hóa lại ngay trong trình duyệt bằng WebAssembly. Bạn có thể tự kiểm tra ở thẻ Network của công cụ nhà phát triển: ảnh không được gửi đi đâu cả."
+      },
+      {
+        "question": "Tôi nên chuyển sang định dạng nào?",
+        "answer": "Nếu chưa chắc, hãy chọn JPG vì hầu như mở được ở mọi nơi. Chọn PNG cho bản sao không giảm chất lượng, WebP cho website, và PDF khi cần tài liệu."
+      },
+      {
+        "question": "Chuyển đổi có làm giảm chất lượng không?",
+        "answer": "JPG là định dạng nén mất dữ liệu nên một chút chi tiết bị loại bỏ. Ở chất lượng 90–92%, sự khác biệt rất khó nhận ra. PNG giữ nguyên các điểm ảnh sau khi giải mã."
+      },
+      {
+        "question": "Tệp đã chuyển có giữ vị trí và thông tin máy ảnh không?",
+        "answer": "Không. Ảnh được vẽ lại và mã hóa trong trình duyệt nên siêu dữ liệu như vị trí GPS hay kiểu máy ảnh không được giữ lại."
+      },
+      {
+        "question": "Tôi có thể chuyển bao nhiêu ảnh cùng lúc?",
+        "answer": "Chúng tôi không đặt giới hạn; bộ nhớ thiết bị quyết định. Máy tính xử lý được lô lớn, còn trên điện thoại nên khoảng 20–50 ảnh mỗi lần. Nếu thiếu bộ nhớ, hãy giảm số ảnh hoặc kích thước tối đa."
+      }
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "Nén mất dữ liệu (chất lượng 50–100%)",
+        "transparency": "Không",
+        "compatibility": "Mở được trên hầu hết thiết bị, ứng dụng và máy in",
+        "bestFor": "Chia sẻ, email, mạng xã hội, in ấn"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "Không mất dữ liệu",
+        "transparency": "Có",
+        "compatibility": "Mở được trên hầu hết thiết bị và ứng dụng",
+        "bestFor": "Chỉnh sửa, đồ họa, bản sao không giảm chất lượng"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "Nén mất dữ liệu (chất lượng 50–100%)",
+        "transparency": "Có",
+        "compatibility": "Trình duyệt hiện đại và nhiều ứng dụng",
+        "bestFor": "Website và blog"
+      },
+      {
+        "formatName": "PDF",
+        "compression": "Ảnh JPEG trong trang PDF",
+        "transparency": "Không",
+        "compatibility": "Mọi trình đọc PDF",
+        "bestFor": "Tài liệu, biểu mẫu, in ấn"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "dropAnywhere": "Pudota tiedostot mihin tahansa tähän ruutuun",
+  "freePrivate": "Ilmainen ja yksityinen",
+  "files": "tiedostoa",
+  "file": "tiedosto",
+  "resizeLabel": "Enimmäiskoko",
+  "resizeOriginal": "Alkuperäinen",
+  "pdfCombine": "Yhdistä kaikki kuvat yhteen PDF-tiedostoon",
+  "pdfPage": "Sivun koko",
+  "pdfPageImage": "Kuvan mukainen",
+  "removeFile": "Poista tiedosto",
+  "zipping": "Valmistellaan ZIP-tiedostoa…",
+  "downloadPdf": "Lataa PDF",
+  "losslessNote": "PNG on häviötön, joten laatuasetusta ei ole",
+  "notHeic": "Tämä ei ole HEIC/HEIF-kuva, joten se ohitettiin.",
+  "webpUnsupported": "Tämä selain ei voi tallentaa WebP-tiedostoja. Käytä Chromea, Edgeä tai Firefoxia tai valitse JPG tai PNG.",
+  "tooLarge": "Kuva on liian suuri laitteesi muistille. Kokeile pienempää enimmäiskokoa.",
+  "genericError": "Tiedostoa ei voitu muuntaa. Kokeile toista selainta tai vie kuva uudelleen.",
+  "addMore": "Lisää kuvia",
+  "processedLocally": "Muunnetaan laitteellasi – mitään ei lähetetä"
+}

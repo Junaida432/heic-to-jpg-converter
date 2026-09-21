@@ -1,0 +1,81 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/hu",
+    "title": "HEIC-átalakító – HEIC JPG-re, PNG-re, WebP-re, PDF-re | HEIC2",
+    "description": "Alakítsa az iPhone HEIC fényképeit JPG-, PNG-, WebP- vagy PDF-formátumra a böngészőben. A képek nem hagyják el az eszközt. Tömeges átalakítás és ZIP – ingyen.",
+    "h1": "HEIC fényképek átalakítása JPG, PNG, WebP vagy PDF formátumra",
+    "subheading": "Húzza az iPhone-fényképeit az alábbi mezőbe. Az átalakítás az Ön eszközén történik, így semmi sem kerül feltöltésre – fiók és vízjel nélkül.",
+    "badge": "",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "heic átalakító",
+      "heic jpg",
+      "heic png",
+      "heic pdf",
+      "iphone fénykép jpg"
+    ],
+    "features": [
+      "Átalakítás az eszközön – a képek nem kerülnek feltöltésre",
+      "JPG, PNG, WebP és PDF kimenet",
+      "Tömeges átalakítás és ZIP-letöltés",
+      "Állítható minőség és maximális méret"
+    ],
+    "faqs": [
+      {
+        "question": "Mi az a HEIC-fájl?",
+        "answer": "A HEIC az a képformátum, amelyet az Apple az iOS 11 óta alapértelmezésként használ. HEVC-tömörítést alkalmaz, ezért hasonló képminőség mellett kisebb, mint a JPG, de kevésbé kompatibilis."
+      },
+      {
+        "question": "Feltöltődnek a fényképeim egy szerverre?",
+        "answer": "Nem. A HEIC-fájl dekódolása és újrakódolása a böngészőjében, WebAssembly segítségével történik. A fejlesztői eszközök Hálózat fülén Ön is láthatja, hogy a fénykép sehová sem kerül elküldésre."
+      },
+      {
+        "question": "Milyen formátumra alakítsam?",
+        "answer": "Ha bizonytalan, válassza a JPG-t – szinte mindenhol megnyílik. A veszteségmentes szerkesztési másolathoz válassza a PNG-t, weboldalakhoz a WebP-t, dokumentumhoz pedig a PDF-et."
+      },
+      {
+        "question": "Rontja az átalakítás a minőséget?",
+        "answer": "A JPG veszteséges formátum, ezért némi részlet elvész. 90–92%-os minőségnél a különbséget nehéz észrevenni. A PNG pontosan megőrzi a dekódolt pixeleket."
+      },
+      {
+        "question": "Megmarad az átalakított fájlokban a helyadat és a kamera adatai?",
+        "answer": "Nem. A fényképet a böngésző újrarajzolja és újrakódolja, ezért az olyan metaadatok, mint a GPS-helyzet és a kameramodell, nem kerülnek át."
+      },
+      {
+        "question": "Hány fényképet alakíthatok át egyszerre?",
+        "answer": "Nem szabunk korlátot; az eszköz memóriája dönt. A számítógép nagy tételeket is elbír, telefonon egyszerre 20–50 fénykép javasolt. Ha elfogy a memória, alakítson át kevesebbet, vagy csökkentse a maximális méretet."
+      }
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "Veszteséges (minőség 50–100%)",
+        "transparency": "Nem",
+        "compatibility": "Szinte minden eszközön, alkalmazásban és nyomtatón megnyílik",
+        "bestFor": "Megosztás, e-mail, közösségi média, nyomtatás"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "Veszteségmentes",
+        "transparency": "Igen",
+        "compatibility": "Szinte minden eszközön és alkalmazásban megnyílik",
+        "bestFor": "Szerkesztés, grafika, veszteségmentes másolat"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "Veszteséges (minőség 50–100%)",
+        "transparency": "Igen",
+        "compatibility": "Modern böngészők és sok alkalmazás",
+        "bestFor": "Weboldalak és blogok"
+      },
+      {
+        "formatName": "PDF",
+        "compression": "JPEG-kép egy PDF-oldalon",
+        "transparency": "Nem",
+        "compatibility": "Bármely PDF-olvasó",
+        "bestFor": "Dokumentumok, űrlapok, nyomtatás"
+      }
+    ]
+  }
+}

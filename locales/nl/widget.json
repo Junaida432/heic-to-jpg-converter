@@ -1,0 +1,21 @@
+{
+  "dropAnywhere": "Zet bestanden ergens in dit vak neer",
+  "freePrivate": "Gratis en privé",
+  "files": "bestanden",
+  "file": "bestand",
+  "resizeLabel": "Maximale afmeting",
+  "resizeOriginal": "Origineel",
+  "pdfCombine": "Alle foto’s samenvoegen in één pdf",
+  "pdfPage": "Paginaformaat",
+  "pdfPageImage": "Zoals de foto",
+  "removeFile": "Bestand verwijderen",
+  "zipping": "ZIP voorbereiden…",
+  "downloadPdf": "Pdf downloaden",
+  "losslessNote": "PNG is verliesvrij, dus er is geen kwaliteitsinstelling",
+  "notHeic": "Dit is geen HEIC/HEIF-foto en is overgeslagen.",
+  "webpUnsupported": "Deze browser kan geen WebP opslaan. Gebruik Chrome, Edge of Firefox, of kies JPG of PNG.",
+  "tooLarge": "Deze foto is te groot voor het geheugen van je apparaat. Kies een kleinere maximale afmeting.",
+  "genericError": "Dit bestand kon niet worden geconverteerd. Probeer een andere browser of exporteer de foto opnieuw.",
+  "addMore": "Meer foto’s toevoegen",
+  "processedLocally": "Geconverteerd op je apparaat – er wordt niets geüpload"
+}

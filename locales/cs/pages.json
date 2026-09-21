@@ -1,0 +1,81 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/cs",
+    "title": "Převodník HEIC – HEIC na JPG, PNG, WebP a PDF zdarma | HEIC2",
+    "description": "Převeďte fotky HEIC z iPhonu na JPG, PNG, WebP nebo PDF přímo v prohlížeči. Fotky neopustí vaše zařízení. Hromadný převod a stažení ZIP – zdarma, bez účtu.",
+    "h1": "Převeďte fotky HEIC na JPG, PNG, WebP nebo PDF",
+    "subheading": "Přetáhněte fotky z iPhonu níže. Převádějí se ve vašem zařízení, takže se nic nenahrává – bez účtu a bez vodoznaku.",
+    "badge": "",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "převodník heic",
+      "heic na jpg",
+      "heic na png",
+      "heic na pdf",
+      "fotka iphone jpg"
+    ],
+    "features": [
+      "Převod ve vašem zařízení – fotky se nenahrávají",
+      "Výstup JPG, PNG, WebP a PDF",
+      "Hromadný převod a stažení ZIP",
+      "Nastavitelná kvalita a maximální velikost"
+    ],
+    "faqs": [
+      {
+        "question": "Co je soubor HEIC?",
+        "answer": "HEIC je obrazový formát, který Apple používá ve výchozím nastavení od iOS 11. Využívá kompresi HEVC, takže při podobné kvalitě obrazu je menší než JPG, ale méně kompatibilní."
+      },
+      {
+        "question": "Nahrávají se moje fotky na server?",
+        "answer": "Ne. Soubor HEIC se dekóduje a znovu kóduje ve vašem prohlížeči pomocí WebAssembly. Na kartě Síť ve vývojářských nástrojích si sami ověříte, že se fotka nikam neposílá."
+      },
+      {
+        "question": "Na jaký formát mám převádět?",
+        "answer": "Pokud si nejste jistí, zvolte JPG – otevře se téměř všude. PNG zvolte pro bezeztrátovou kopii k úpravám, WebP pro weby a PDF, když potřebujete dokument."
+      },
+      {
+        "question": "Snižuje převod kvalitu?",
+        "answer": "JPG je ztrátový formát, takže se část detailů ztratí. Při kvalitě 90–92 % je rozdíl těžké poznat. PNG zachová dekódované pixely přesně."
+      },
+      {
+        "question": "Zachovají převedené soubory polohu a údaje o fotoaparátu?",
+        "answer": "Ne. Fotka se v prohlížeči překreslí a znovu zakóduje, takže metadata jako poloha GPS a model fotoaparátu se nepřenesou."
+      },
+      {
+        "question": "Kolik fotek mohu převést najednou?",
+        "answer": "Nestanovujeme žádný limit; rozhoduje paměť zařízení. Počítač zvládne velké dávky, v telefonu je vhodných 20–50 fotek najednou. Pokud dojde paměť, převádějte méně fotek nebo zmenšete maximální velikost."
+      }
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "Ztrátová (kvalita 50–100 %)",
+        "transparency": "Ne",
+        "compatibility": "Otevře se téměř na každém zařízení, v aplikaci i tiskárně",
+        "bestFor": "Sdílení, e-mail, sociální sítě, tisk"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "Bezeztrátová",
+        "transparency": "Ano",
+        "compatibility": "Otevře se téměř na každém zařízení a v aplikaci",
+        "bestFor": "Úpravy, grafika, bezeztrátová kopie"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "Ztrátová (kvalita 50–100 %)",
+        "transparency": "Ano",
+        "compatibility": "Moderní prohlížeče a mnoho aplikací",
+        "bestFor": "Weby a blogy"
+      },
+      {
+        "formatName": "PDF",
+        "compression": "Obrázek JPEG na stránce PDF",
+        "transparency": "Ne",
+        "compatibility": "Jakákoli čtečka PDF",
+        "bestFor": "Dokumenty, formuláře, tisk"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/nl",
+    "title": "HEIC-converter – HEIC naar JPG, PNG, WebP en PDF, gratis | HEIC2",
+    "description": "Zet iPhone-foto’s in HEIC om naar JPG, PNG, WebP of PDF in je browser. Je foto’s verlaten je apparaat niet. Bulkconversie en ZIP-download – gratis, zonder account.",
+    "h1": "HEIC-foto’s converteren naar JPG, PNG, WebP of PDF",
+    "subheading": "Zet je iPhone-foto’s hieronder neer. Ze worden op je apparaat geconverteerd, dus er wordt niets geüpload – geen account, geen watermerk.",
+    "badge": "",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "heic converter",
+      "heic naar jpg",
+      "heic naar png",
+      "heic naar pdf",
+      "iphone foto jpg"
+    ],
+    "features": [
+      "Geconverteerd op je apparaat – foto’s worden niet geüpload",
+      "Uitvoer in JPG, PNG, WebP en PDF",
+      "Bulkconversie met ZIP-download",
+      "Instelbare kwaliteit en maximale afmeting"
+    ],
+    "faqs": [
+      {
+        "question": "Wat is een HEIC-bestand?",
+        "answer": "HEIC is het beeldformaat dat Apple sinds iOS 11 standaard gebruikt. Het gebruikt HEVC-compressie en is bij vergelijkbare beeldkwaliteit kleiner dan JPG, maar minder compatibel."
+      },
+      {
+        "question": "Worden mijn foto’s naar een server geüpload?",
+        "answer": "Nee. Het HEIC-bestand wordt in je browser met WebAssembly gedecodeerd en opnieuw gecodeerd. Op het tabblad Netwerk van de ontwikkelaarstools zie je zelf dat de foto nergens naartoe wordt gestuurd."
+      },
+      {
+        "question": "Naar welk formaat moet ik converteren?",
+        "answer": "Twijfel je, kies dan JPG: dat opent vrijwel overal. Kies PNG voor een verliesvrije kopie om te bewerken, WebP voor websites en PDF als je een document nodig hebt."
+      },
+      {
+        "question": "Verlaagt converteren de kwaliteit?",
+        "answer": "JPG is een formaat met verlies, dus er gaat wat detail verloren. Bij 90–92% kwaliteit is het verschil nauwelijks te zien. PNG bewaart de gedecodeerde pixels precies."
+      },
+      {
+        "question": "Behouden geconverteerde bestanden locatie en cameragegevens?",
+        "answer": "Nee. De foto wordt in je browser opnieuw getekend en gecodeerd, dus metagegevens zoals gps-locatie en cameramodel blijven niet behouden."
+      },
+      {
+        "question": "Hoeveel foto’s kan ik tegelijk converteren?",
+        "answer": "We stellen geen limiet in; het geheugen van je apparaat bepaalt het. Een computer verwerkt grote reeksen, op een telefoon zijn 20–50 foto’s per keer verstandig. Is het geheugen krap, converteer dan minder foto’s of verklein de maximale afmeting."
+      }
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "Met verlies (kwaliteit 50–100%)",
+        "transparency": "Nee",
+        "compatibility": "Opent op vrijwel elk apparaat, elke app en printer",
+        "bestFor": "Delen, e-mail, sociale media, afdrukken"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "Verliesvrij",
+        "transparency": "Ja",
+        "compatibility": "Opent op vrijwel elk apparaat en elke app",
+        "bestFor": "Bewerken, afbeeldingen, verliesvrije kopie"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "Met verlies (kwaliteit 50–100%)",
+        "transparency": "Ja",
+        "compatibility": "Moderne browsers en veel apps",
+        "bestFor": "Websites en blogs"
+      },
+      {
+        "formatName": "PDF",
+        "compression": "JPEG-afbeelding in een pdf-pagina",
+        "transparency": "Nee",
+        "compatibility": "Elke pdf-lezer",
+        "bestFor": "Documenten, formulieren, afdrukken"
+      }
+    ]
+  }
+}

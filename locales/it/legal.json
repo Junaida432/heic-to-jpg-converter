@@ -1,0 +1,90 @@
+{
+  "privacyPolicy": {
+    "title": "Informativa sulla Privacy",
+    "badge": "Elaborazione 100% Locale Senza Upload",
+    "summary": "Le tue foto non lasciano mai il tuo dispositivo. HEIC2 Tools converte ogni immagine localmente nel browser.",
+    "backBtn": "Torna al Convertitore",
+    "sections": [
+      {
+        "title": "1. Garanzia Zero Caricamento Cloud",
+        "content": "HEIC2 Tools è sviluppato con un'architettura interamente client-side. Tutte le conversioni da HEIC/HEIF verso JPG, PNG o WebP avvengono nella memoria del tuo browser tramite WebAssembly e HTML5 Canvas. Nessuna immagine viene trasmessa a server esterni."
+      },
+      {
+        "title": "2. Nessun Dato Personale Raccolto",
+        "content": "Non è richiesta alcuna registrazione né indirizzo e-mail. Puoi effettuare conversioni illimitate in forma totalmente anonima."
+      },
+      {
+        "title": "3. Gestione Locale e Rimozione Sicura",
+        "content": "I file risiedono temporaneamente nella memoria RAM del browser. Al termine della sessione, tutti i dati vengono eliminati all'istante."
+      },
+      {
+        "title": "4. Analisi (solo con il tuo consenso)",
+        "content": "Google Analytics viene caricato solo se fai clic su «Accetta» nell’avviso sui cookie; se rifiuti, nessun dato di analisi viene inviato a Google. Le tue foto e i nomi dei file non lasciano mai il tuo browser."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termini di Servizio",
+    "badge": "Condizioni Chiare e Gratuite",
+    "summary": "Utilizzando HEIC2 Tools accetti questi semplici termini. Il nostro strumento è gratuito e funziona interamente sul tuo computer o smartphone.",
+    "backBtn": "Torna al Convertitore",
+    "sections": [
+      {
+        "title": "1. Accettazione dei Termini",
+        "content": "L'accesso e l'uso di HEIC2 Tools (www.heic2.tools) implicano l'accettazione dei presenti Termini di Servizio."
+      },
+      {
+        "title": "2. Uso Consentito",
+        "content": "Lo strumento è concesso per uso personale e professionale. Sei autorizzato a convertire solo le immagini di cui possiedi i diritti legali."
+      },
+      {
+        "title": "3. Limitazione di Responsabilità",
+        "content": "Il servizio è fornito \"così com'è\". Ci impegniamo per la massima accuratezza, ma non rispondiamo di file originali corrotti."
+      },
+      {
+        "title": "4. Proprietà Intellettuale",
+        "content": "Mantieni la totale proprietà intellettuale sulle tue foto. Non vantiamo alcun diritto sui tuoi contenuti elaborati localmente."
+      }
+    ]
+  },
+  "about": {
+    "title": "Chi Siamo – HEIC2",
+    "badge": "Tecnologia Orientata alla Privacy",
+    "summary": "Abbiamo creato HEIC2 Tools per risolvere i problemi di compatibilità del formato HEIC di Apple senza violare la privacy delle tue foto.",
+    "backBtn": "Torna al Convertitore",
+    "sections": [
+      {
+        "title": "La Nostra Missione",
+        "content": "Dal lancio del formato HEIC con iOS 11, milioni di utenti hanno riscontrato problemi ad aprire foto su PC Windows o Android. La maggior parte dei siti richiede di caricare le immagini su server remoti. Noi abbiamo creato una soluzione moderna e sicura che lavora interamente sul tuo dispositivo."
+      },
+      {
+        "title": "Come Funziona (WebAssembly nel Browser)",
+        "content": "Sfruttiamo WebAssembly (Wasm) e Canvas HTML5 per consentire alla CPU del tuo dispositivo di decodificare e riconvertire le immagini in pochi millisecondi."
+      },
+      {
+        "title": "Perché la Conversione Locale è Migliore",
+        "content": "Zero tempi di attesa su server, nessun consumo di dati di upload e download in blocco in archivio ZIP nella totale privacy."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contatti e Supporto",
+    "badge": "Siamo a Tua Disposizione",
+    "summary": "Hai domande, suggerimenti o necessiti di supporto tecnico? Contatta il nostro team di sviluppo.",
+    "backBtn": "Torna al Convertitore",
+    "contactEmail": "support@heic2.tools",
+    "emailLabel": "E-mail di Supporto Tecnico:",
+    "responseNotice": "Rispondiamo di solito entro 24–48 ore lavorative.",
+    "faqIntro": "Prima di scriverci, consulta la nostra sezione FAQ per trovare risposte immediate.",
+    "sections": [
+      {
+        "title": "Feedback e Segnalazione Bug",
+        "content": "Se riscontri anomalie con file HEIC specifici, indicaci browser, sistema operativo e una breve descrizione dell'errore."
+      },
+      {
+        "title": "Richieste Commerciali",
+        "content": "Per proposte di collaborazione o informazioni commerciali, scrivici all'indirizzo ufficiale."
+      }
+    ]
+  }
+}

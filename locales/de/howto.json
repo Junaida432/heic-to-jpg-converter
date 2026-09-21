@@ -1,0 +1,23 @@
+{
+  "title": "In 3 einfachen Schritten HEIC-Fotos in JPG, PNG oder WebP umwandeln",
+  "sub": "Ohne Software-Installation, ohne Browser-Erweiterungen und ohne Cloud-Uploads.",
+  "steps": [
+    {
+      "title": "1. Fotos hochladen oder ablegen",
+      "desc": "Ziehen Sie .heic / .heif Fotos in das Upload-Feld oder fügen Sie sie per Ctrl+V ein.",
+      "badge": "Unterstützt .heic und .heif"
+    },
+    {
+      "title": "2. Zielformat & Qualität wählen",
+      "desc": "Wählen Sie JPG, PNG oder WebP und passen Sie den Qualitätsregler für die optimale Dateigröße an.",
+      "badge": "Stufenlos 50% bis 100% Qualität"
+    },
+    {
+      "title": "3. Umwandeln & als ZIP laden",
+      "desc": "Klicken Sie auf \"Alle konvertieren\". Ihr Browser verarbeitet alles lokal. Laden Sie alle Fotos als ZIP-Paket.",
+      "badge": "Direkter ZIP-Download mit einem Klick"
+    }
+  ],
+  "tipTitle": "Profi-Tipp: iPhone-Kamera dauerhaft auf JPG einstellen",
+  "tipText": "Öffnen Sie auf dem iPhone Einstellungen > Kamera > Formate und wählen Sie \"Maximale Kompatibilität\"."
+}

@@ -1,0 +1,81 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/id",
+    "title": "Konverter HEIC – HEIC ke JPG, PNG, WebP & PDF Gratis | HEIC2",
+    "description": "Ubah foto HEIC iPhone menjadi JPG, PNG, WebP, atau PDF di browser Anda. Foto tidak pernah meninggalkan perangkat. Konversi massal dan unduh ZIP – gratis.",
+    "h1": "Konversi foto HEIC ke JPG, PNG, WebP, atau PDF",
+    "subheading": "Letakkan foto iPhone Anda di bawah. Foto dikonversi di perangkat Anda sehingga tidak ada yang diunggah – tanpa akun dan tanpa watermark.",
+    "badge": "",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "konverter heic",
+      "heic ke jpg",
+      "heic ke png",
+      "heic ke pdf",
+      "foto iphone jpg"
+    ],
+    "features": [
+      "Dikonversi di perangkat – foto tidak diunggah",
+      "Keluaran JPG, PNG, WebP, dan PDF",
+      "Konversi massal dengan unduhan ZIP",
+      "Kualitas dan ukuran maksimum dapat diatur"
+    ],
+    "faqs": [
+      {
+        "question": "Apa itu file HEIC?",
+        "answer": "HEIC adalah format gambar yang digunakan Apple secara bawaan sejak iOS 11. Format ini memakai kompresi HEVC sehingga pada kualitas visual serupa ukurannya lebih kecil daripada JPG, tetapi kompatibilitasnya lebih rendah."
+      },
+      {
+        "question": "Apakah foto saya diunggah ke server?",
+        "answer": "Tidak. File HEIC didekode dan dikodekan ulang di dalam browser Anda dengan WebAssembly. Anda dapat memeriksanya di tab Network pada alat pengembang: foto tidak dikirim ke mana pun."
+      },
+      {
+        "question": "Format apa yang sebaiknya saya pilih?",
+        "answer": "Jika ragu, pilih JPG karena terbuka di hampir semua tempat. Pilih PNG untuk salinan lossless, WebP untuk situs web, dan PDF bila membutuhkan dokumen."
+      },
+      {
+        "question": "Apakah konversi menurunkan kualitas?",
+        "answer": "JPG bersifat lossy sehingga sedikit detail dibuang. Pada kualitas 90–92% perbedaannya sulit dilihat. PNG mempertahankan piksel hasil dekode apa adanya."
+      },
+      {
+        "question": "Apakah file hasil konversi menyimpan lokasi dan data kamera?",
+        "answer": "Tidak. Foto digambar ulang dan dikodekan di browser, sehingga metadata seperti lokasi GPS dan model kamera tidak ikut terbawa."
+      },
+      {
+        "question": "Berapa banyak foto yang bisa dikonversi sekaligus?",
+        "answer": "Kami tidak membatasi; memori perangkat Andalah yang menentukan. Komputer mampu menangani kelompok besar, sedangkan di ponsel sebaiknya 20–50 foto per kali. Jika memori kurang, kurangi jumlah foto atau kecilkan ukuran maksimum."
+      }
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "Lossy (kualitas 50–100%)",
+        "transparency": "Tidak",
+        "compatibility": "Terbuka di hampir semua perangkat, aplikasi, dan printer",
+        "bestFor": "Berbagi, email, media sosial, cetak"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "Lossless",
+        "transparency": "Ya",
+        "compatibility": "Terbuka di hampir semua perangkat dan aplikasi",
+        "bestFor": "Penyuntingan, grafis, salinan tanpa kehilangan kualitas"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "Lossy (kualitas 50–100%)",
+        "transparency": "Ya",
+        "compatibility": "Browser modern dan banyak aplikasi",
+        "bestFor": "Situs web dan blog"
+      },
+      {
+        "formatName": "PDF",
+        "compression": "Gambar JPEG di dalam halaman PDF",
+        "transparency": "Tidak",
+        "compatibility": "Semua pembaca PDF",
+        "bestFor": "Dokumen, formulir, cetak"
+      }
+    ]
+  }
+}

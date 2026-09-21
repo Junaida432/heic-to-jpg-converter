@@ -1,0 +1,21 @@
+{
+  "dropAnywhere": "Thả tệp vào bất kỳ đâu trong khung này",
+  "freePrivate": "Miễn phí & riêng tư",
+  "files": "tệp",
+  "file": "tệp",
+  "resizeLabel": "Kích thước tối đa",
+  "resizeOriginal": "Gốc",
+  "pdfCombine": "Gộp tất cả ảnh thành một PDF",
+  "pdfPage": "Khổ trang",
+  "pdfPageImage": "Bằng kích thước ảnh",
+  "removeFile": "Xóa tệp",
+  "zipping": "Đang tạo ZIP…",
+  "downloadPdf": "Tải PDF",
+  "losslessNote": "PNG không làm giảm chất lượng nên không có mục chỉnh chất lượng",
+  "notHeic": "Đây không phải ảnh HEIC/HEIF nên đã bị bỏ qua.",
+  "webpUnsupported": "Trình duyệt này không thể lưu WebP. Hãy dùng Chrome, Edge hoặc Firefox, hoặc chọn JPG hay PNG.",
+  "tooLarge": "Ảnh quá lớn so với bộ nhớ thiết bị. Hãy thử kích thước tối đa nhỏ hơn.",
+  "genericError": "Không thể chuyển đổi tệp này. Hãy thử trình duyệt khác hoặc xuất lại ảnh.",
+  "addMore": "Thêm ảnh",
+  "processedLocally": "Chuyển đổi ngay trên thiết bị của bạn – không có gì được tải lên"
+}

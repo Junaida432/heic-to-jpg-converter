@@ -1,0 +1,21 @@
+{
+  "dropAnywhere": "أفلت الملفات في هذا المربع",
+  "freePrivate": "مجاني وخاص",
+  "files": "ملفات",
+  "file": "ملف",
+  "resizeLabel": "الحد الأقصى للحجم",
+  "resizeOriginal": "الأصلي",
+  "pdfCombine": "دمج كل الصور في ملف PDF واحد",
+  "pdfPage": "حجم الصفحة",
+  "pdfPageImage": "مثل الصورة",
+  "removeFile": "إزالة الملف",
+  "zipping": "جارٍ تجهيز ملف ZIP…",
+  "downloadPdf": "تنزيل PDF",
+  "losslessNote": "صيغة PNG بلا فقد للجودة، لذلك لا يوجد إعداد للجودة",
+  "notHeic": "هذا الملف ليس صورة HEIC/HEIF لذلك تم تخطيه.",
+  "webpUnsupported": "لا يستطيع هذا المتصفح حفظ WebP. استخدم Chrome أو Edge أو Firefox، أو اختر JPG أو PNG.",
+  "tooLarge": "الصورة كبيرة جدًا لذاكرة جهازك. جرّب حجمًا أقصى أصغر.",
+  "genericError": "تعذّر تحويل هذا الملف. جرّب متصفحًا آخر أو أعد تصدير الصورة.",
+  "addMore": "إضافة المزيد من الصور",
+  "processedLocally": "يتم التحويل على جهازك — لا يُرفع أي شيء"
+}

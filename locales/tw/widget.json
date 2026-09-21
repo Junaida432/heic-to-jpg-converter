@@ -1,0 +1,21 @@
+{
+  "dropAnywhere": "將檔案拖放到此框內任何位置",
+  "freePrivate": "免費且隱私",
+  "files": "個檔案",
+  "file": "個檔案",
+  "resizeLabel": "最大尺寸",
+  "resizeOriginal": "原始尺寸",
+  "pdfCombine": "將所有照片合併為一個 PDF",
+  "pdfPage": "頁面大小",
+  "pdfPageImage": "與照片相同",
+  "removeFile": "移除檔案",
+  "zipping": "正在準備 ZIP…",
+  "downloadPdf": "下載 PDF",
+  "losslessNote": "PNG 為無損格式，因此沒有品質設定",
+  "notHeic": "這不是 HEIC/HEIF 照片，已略過。",
+  "webpUnsupported": "此瀏覽器無法儲存 WebP。請使用 Chrome、Edge 或 Firefox，或改選 JPG 或 PNG。",
+  "tooLarge": "照片太大，超出裝置記憶體。請試著縮小最大尺寸。",
+  "genericError": "無法轉換此檔案。請改用其他瀏覽器，或重新匯出照片。",
+  "addMore": "新增更多照片",
+  "processedLocally": "在您的裝置上轉換，不會上傳任何檔案"
+}

@@ -1,0 +1,21 @@
+{
+  "dropAnywhere": "Slipp filer hvor som helst i boksen",
+  "freePrivate": "Gratis og privat",
+  "files": "filer",
+  "file": "fil",
+  "resizeLabel": "Maksimal størrelse",
+  "resizeOriginal": "Original",
+  "pdfCombine": "Slå sammen alle bildene i én PDF",
+  "pdfPage": "Sidestørrelse",
+  "pdfPageImage": "Som bildet",
+  "removeFile": "Fjern fil",
+  "zipping": "Klargjør ZIP…",
+  "downloadPdf": "Last ned PDF",
+  "losslessNote": "PNG er tapsfritt, så det finnes ingen kvalitetsinnstilling",
+  "notHeic": "Dette er ikke et HEIC/HEIF-bilde og ble hoppet over.",
+  "webpUnsupported": "Denne nettleseren kan ikke lagre WebP. Bruk Chrome, Edge eller Firefox, eller velg JPG eller PNG.",
+  "tooLarge": "Bildet er for stort for enhetens minne. Prøv en mindre maksimal størrelse.",
+  "genericError": "Filen kunne ikke konverteres. Prøv en annen nettleser eller eksporter bildet på nytt.",
+  "addMore": "Legg til flere bilder",
+  "processedLocally": "Konverteres på enheten din – ingenting lastes opp"
+}

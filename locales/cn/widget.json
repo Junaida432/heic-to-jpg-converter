@@ -1,0 +1,21 @@
+{
+  "dropAnywhere": "把文件拖到此区域",
+  "freePrivate": "免费且隐私",
+  "files": "个文件",
+  "file": "个文件",
+  "resizeLabel": "最大边长",
+  "resizeOriginal": "原始尺寸",
+  "pdfCombine": "合并为一个 PDF",
+  "pdfPage": "页面尺寸",
+  "pdfPageImage": "与照片相同",
+  "removeFile": "移除文件",
+  "zipping": "正在打包 ZIP…",
+  "downloadPdf": "下载 PDF",
+  "losslessNote": "PNG 为无损格式，无需设置质量",
+  "notHeic": "这不是 HEIC/HEIF 照片，已跳过。",
+  "webpUnsupported": "当前浏览器无法保存 WebP，请使用 Chrome、Edge 或 Firefox，或选择 JPG / PNG。",
+  "tooLarge": "照片过大，超出设备内存。请尝试减小“最大边长”。",
+  "genericError": "无法转换此文件。请更换浏览器或重新导出照片。",
+  "addMore": "添加更多照片",
+  "processedLocally": "在您的设备上转换，不会上传任何文件"
+}

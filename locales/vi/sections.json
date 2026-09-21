@@ -1,0 +1,61 @@
+[
+  {
+    "id": "privacy",
+    "h2": "Ảnh của bạn không rời khỏi thiết bị",
+    "blocks": [
+      {
+        "t": "p",
+        "text": "HEIC là định dạng ảnh mặc định của iPhone và iPad. Nó tiết kiệm dung lượng, nhưng nhiều máy tính Windows, điện thoại Android, website và dịch vụ in ấn không mở được. HEIC2 chuyển chúng sang JPG, PNG, WebP hoặc PDF để ảnh dùng được ở mọi nơi."
+      },
+      {
+        "t": "p",
+        "text": "Việc chuyển đổi diễn ra ngay trong thẻ trình duyệt của bạn: bộ giải mã HEIC (libheif biên dịch sang WebAssembly) đọc tệp ở nền, rồi trình duyệt mã hóa lại theo định dạng bạn chọn. Ảnh không được gửi đến bất kỳ máy chủ nào. Bạn có thể tự kiểm tra: mở công cụ dành cho nhà phát triển, chọn thẻ Mạng (Network) rồi chuyển đổi một ảnh – bạn sẽ không thấy việc tải lên nào."
+      }
+    ]
+  },
+  {
+    "id": "formats",
+    "h2": "Nên chọn định dạng đầu ra nào?",
+    "blocks": [
+      {
+        "t": "ul",
+        "items": [
+          "**JPG**: tương thích tốt nhất, phù hợp để chia sẻ, gửi email, đăng mạng xã hội và in.",
+          "**PNG**: không giảm chất lượng, hữu ích khi bạn còn chỉnh sửa tiếp, nhưng thường nặng hơn JPG nhiều.",
+          "**WebP**: tệp nhỏ hơn cho website và blog; một số trình duyệt như Safari có thể không lưu được WebP.",
+          "**PDF**: để gửi hoặc in ảnh dưới dạng tài liệu; có thể gộp nhiều ảnh vào một PDF."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "quality",
+    "h2": "Cách có chất lượng tốt nhất",
+    "blocks": [
+      {
+        "t": "ul",
+        "items": [
+          "Chọn chất lượng 90–92% cho JPG; ở 100% tệp nặng hơn nhiều nhưng khó thấy khác biệt.",
+          "Muốn tệp nhỏ hơn, hãy đặt “Kích thước tối đa” là 2048 px.",
+          "Tệp sau chuyển đổi không chứa siêu dữ liệu gốc (máy ảnh, vị trí GPS). Điều này tốt cho quyền riêng tư; hãy giữ tệp HEIC gốc nếu bạn cần.",
+          "Với Live Photo, chỉ ảnh tĩnh được chuyển đổi."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "problems",
+    "h2": "Khi một ảnh không chuyển đổi được",
+    "blocks": [
+      {
+        "t": "ol",
+        "items": [
+          "Thử phiên bản mới của Chrome, Edge hoặc Firefox.",
+          "Chuyển ít ảnh hơn mỗi lần hoặc giảm kích thước tối đa – ảnh rất lớn có thể vượt quá bộ nhớ điện thoại.",
+          "Kiểm tra tệp có thật là HEIC không, chứ không phải tệp bị đổi tên hoặc sao chép dở.",
+          "Nếu vẫn lỗi, [liên hệ chúng tôi](/contact) và cho biết trình duyệt cùng hệ điều hành."
+        ]
+      }
+    ]
+  }
+]

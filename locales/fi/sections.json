@@ -1,0 +1,61 @@
+[
+  {
+    "id": "privacy",
+    "h2": "Kuvasi eivät poistu laitteeltasi",
+    "blocks": [
+      {
+        "t": "p",
+        "text": "HEIC on kuvamuoto, jota iPhone ja iPad käyttävät oletuksena. Se säästää tallennustilaa, mutta monet Windows-tietokoneet, Android-puhelimet, verkkosivut ja painopalvelut eivät osaa avata sitä. HEIC2 muuntaa sen JPG-, PNG-, WebP- tai PDF-muotoon, jotta kuvasi toimivat kaikkialla."
+      },
+      {
+        "t": "p",
+        "text": "Muunnos tapahtuu selaimesi välilehdessä: WebAssemblyksi käännetty HEIC-dekooderi (libheif) lukee tiedoston taustalla, ja selain koodaa sen valitsemaasi muotoon. Kuvaa ei lähetetä millekään palvelimelle. Voit tarkistaa asian itse: avaa kehittäjätyökalut, siirry Verkko-välilehteen (Network) ja muunna kuva – et näe yhtään latausta."
+      }
+    ]
+  },
+  {
+    "id": "formats",
+    "h2": "Minkä tulostemuodon valitset?",
+    "blocks": [
+      {
+        "t": "ul",
+        "items": [
+          "**JPG**: paras yhteensopivuus, sopii jakamiseen, sähköpostiin, sosiaaliseen mediaan ja tulostamiseen.",
+          "**PNG**: häviötön ja hyödyllinen, jos aiot muokata edelleen, mutta usein paljon JPG:tä suurempi.",
+          "**WebP**: pienemmät tiedostot verkkosivuille ja blogeihin; jotkin selaimet, kuten Safari, eivät ehkä osaa tallentaa WebP:tä.",
+          "**PDF**: kuvien lähettämiseen tai tulostamiseen asiakirjana; useita kuvia voi yhdistää yhteen PDF-tiedostoon."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "quality",
+    "h2": "Näin saat parhaan laadun",
+    "blocks": [
+      {
+        "t": "ul",
+        "items": [
+          "Valitse JPG:lle 90–92 %: 100 %:lla tiedosto kasvaa paljon ilman näkyvää eroa.",
+          "Pienempiä tiedostoja varten aseta ”Enimmäiskoko”-arvoksi 2048 px.",
+          "Muunnetut tiedostot eivät sisällä alkuperäisiä metatietoja (kamera, GPS-sijainti). Se on hyvä yksityisyydelle; säilytä alkuperäinen HEIC, jos tarvitset niitä.",
+          "Live Photosta muunnetaan vain still-kuva."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "problems",
+    "h2": "Jos kuva ei muunnu",
+    "blocks": [
+      {
+        "t": "ol",
+        "items": [
+          "Kokeile Chromen, Edgen tai Firefoxin uusinta versiota.",
+          "Muunna kerralla vähemmän kuvia tai pienennä enimmäiskokoa – erittäin suuret kuvat voivat ylittää puhelimen muistin.",
+          "Tarkista, että tiedosto on todella HEIC eikä uudelleennimetty tai vain osittain kopioitu.",
+          "Jos ongelma jatkuu, [ota yhteyttä](/contact) ja kerro selain ja käyttöjärjestelmä."
+        ]
+      }
+    ]
+  }
+]

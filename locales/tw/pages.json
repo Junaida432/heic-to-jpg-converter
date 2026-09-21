@@ -1,0 +1,93 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/tw",
+    "title": "HEIC 轉換器 – HEIC 轉 JPG、PNG、WebP、PDF 免費 | HEIC2",
+    "description": "在瀏覽器中將 iPhone 的 HEIC 照片轉成 JPG、PNG、WebP 或 PDF，照片不會離開您的裝置。支援批次轉換與 ZIP 下載，免費、免註冊。",
+    "h1": "將 HEIC 照片轉換為 JPG、PNG、WebP 或 PDF",
+    "subheading": "把 iPhone 照片拖放到下方即可。轉換在您的裝置上進行，不會上傳，也不需要帳號或浮水印。",
+    "badge": "",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "heic 轉 jpg",
+      "heic 轉換",
+      "heic 轉 png",
+      "heic 轉 pdf",
+      "iphone 照片 jpg"
+    ],
+    "features": [
+      "在裝置上轉換，照片不上傳",
+      "輸出 JPG、PNG、WebP 與 PDF",
+      "批次轉換並下載 ZIP",
+      "可調整品質與最大尺寸"
+    ],
+    "faqs": [
+      {
+        "question": "HEIC 檔案是什麼？",
+        "answer": "HEIC 是 Apple 自 iOS 11 起預設使用的影像格式。它採用 HEVC 壓縮，在畫質相近時檔案比 JPG 小，但相容性較低。"
+      },
+      {
+        "question": "我的照片會上傳到伺服器嗎？",
+        "answer": "不會。HEIC 檔案是在您的瀏覽器中以 WebAssembly 解碼並重新編碼。您可以在開發者工具的 Network 分頁自行確認，照片不會被傳送到任何地方。"
+      },
+      {
+        "question": "我應該轉成哪種格式？",
+        "answer": "不確定的話就選 JPG，幾乎到處都能開啟。需要可再編輯的無損副本請選 PNG，用於網站選 WebP，需要文件時選 PDF。"
+      },
+      {
+        "question": "轉換會降低畫質嗎？",
+        "answer": "JPG 是有損格式，因此會損失一些細節；在 90–92% 品質下很難看出差異。PNG 則完整保留解碼後的像素。"
+      },
+      {
+        "question": "轉換後的檔案會保留位置與相機資訊嗎？",
+        "answer": "不會。照片會在瀏覽器中重新繪製並編碼，因此 GPS 位置、相機型號等中繼資料不會被保留。"
+      },
+      {
+        "question": "一次可以轉換多少張？",
+        "answer": "我們不設上限，實際取決於裝置記憶體。電腦可處理大量照片，手機建議一次 20–50 張。若記憶體不足，請減少張數或縮小最大尺寸。"
+      },
+      {
+        "question": "為什麼 Windows 電腦打不開 HEIC 照片？",
+        "answer": "Windows 需要另外從 Microsoft Store 安裝 HEIF 與 HEVC 影像擴充功能才能顯示 HEIC，其中 HEVC 擴充功能通常需要付費。直接轉成 JPG 最省事，也不必安裝任何軟體。"
+      },
+      {
+        "question": "可以讓 iPhone 直接拍成 JPG 嗎？",
+        "answer": "可以。前往「設定」>「相機」>「格式」，選擇「最相容」，之後拍的照片就會以 JPEG 儲存；已經拍好的 HEIC 照片則可以用這個工具轉換。"
+      },
+      {
+        "question": "Live Photo 會怎麼處理？",
+        "answer": "只會轉換其中的靜態影像，短片部分不會包含在 JPG、PNG、WebP 或 PDF 輸出中。"
+      }
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "有損（品質 50–100%）",
+        "transparency": "否",
+        "compatibility": "幾乎所有裝置、應用程式與印表機都能開啟",
+        "bestFor": "分享、電子郵件、社群、列印"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "無損",
+        "transparency": "是",
+        "compatibility": "幾乎所有裝置與應用程式都能開啟",
+        "bestFor": "編輯、圖像設計、無損副本"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "有損（品質 50–100%）",
+        "transparency": "是",
+        "compatibility": "新版瀏覽器與許多應用程式",
+        "bestFor": "網站與部落格"
+      },
+      {
+        "formatName": "PDF",
+        "compression": "PDF 頁面中的 JPEG 影像",
+        "transparency": "否",
+        "compatibility": "任何 PDF 閱讀器",
+        "bestFor": "文件、表單、列印"
+      }
+    ]
+  }
+}

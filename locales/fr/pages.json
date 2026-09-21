@@ -1,0 +1,253 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/fr",
+    "title": "Convertir HEIC en JPG, PNG & WebP en Ligne – 100% Gratuit & Privé | HEIC2",
+    "description": "Convertissez instantanément vos photos iPhone HEIC/HEIF en JPG, PNG et WebP dans votre navigateur. Traitement par lot, zéro téléversement, 100% sécurisé.",
+    "h1": "Convertissez vos photos HEIC en JPG, PNG ou WebP en quelques secondes",
+    "subheading": "Glissez et déposez vos photos iPhone ci-dessous. Tout est converti localement via WebAssembly : aucun fichier n’est envoyé sur un serveur.",
+    "badge": "Rapide, Gratuit et 100% Confidentiel",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "convertir heic en jpg",
+      "heic en png",
+      "heic en webp",
+      "convertisseur heic gratuit"
+    ],
+    "features": [
+      "100% Privé (vos fichiers restent sur votre machine)",
+      "Conversion par lot à grande vitesse",
+      "Téléchargement groupé sous forme d’archive ZIP",
+      "Contrôle précis de la qualité de 50% à 100%"
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG / JPEG",
+        "compression": "Avec perte réglable",
+        "transparency": "Non",
+        "compatibility": "99.9% (Tous appareils)",
+        "bestFor": "Photos courantes, réseaux sociaux"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "Sans perte haute fidélité",
+        "transparency": "Oui (Canal Alpha)",
+        "compatibility": "99% (Plateformes modernes)",
+        "bestFor": "Graphismes, logos et fonds transparents"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "Format Web Nouvelle Génération",
+        "transparency": "Oui",
+        "compatibility": "97% (Navigateurs modernes)",
+        "bestFor": "Sites internet et gain d’espace maximal"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Pourquoi mes photos iPhone sont-elles en format HEIC ?",
+        "answer": "Depuis iOS 11, Apple utilise le format HEIC pour réduire la taille des photos de moitié tout en préservant les couleurs. Mais de nombreux PC Windows et appareils Android ne peuvent pas les ouvrir directement."
+      },
+      {
+        "question": "Mes photos sont-elles téléchargées sur vos serveurs ?",
+        "answer": "Jamais. Toute la conversion s’exécute dans votre propre navigateur. Vos photos ne quittent jamais votre appareil."
+      },
+      {
+        "question": "Qu’est-ce qu’un fichier HEIC ?",
+        "answer": "Le HEIC est le format d’image qu’Apple utilise par défaut depuis iOS 11. Il repose sur la compression HEVC : à qualité visuelle comparable, il est plus léger qu’un JPG, mais moins compatible."
+      },
+      {
+        "question": "Les fichiers convertis conservent-ils la position et les infos de l’appareil ?",
+        "answer": "Non. La photo est redessinée et réencodée dans votre navigateur ; les métadonnées comme la position GPS ou le modèle d’appareil ne sont pas conservées."
+      },
+      {
+        "question": "Combien de photos puis-je convertir à la fois ?",
+        "answer": "Nous ne fixons pas de limite ; la mémoire de votre appareil décide. Un ordinateur gère de gros lots ; sur téléphone, mieux vaut 20 à 50 photos. En cas de manque de mémoire, convertissez moins de photos ou réduisez la taille maximale."
+      }
+    ]
+  },
+  "/heic-to-jpg": {
+    "slug": "heic-to-jpg",
+    "path": "/fr/heic-to-jpg",
+    "title": "Convertir HEIC en JPG en Ligne – Gratuit, Rapide et par Lot | HEIC2",
+    "description": "Convertissez facilement vos photos Apple HEIC en JPG universel en ligne. Traitement par lot rapide, qualité personnalisée et zéro envoi de données.",
+    "h1": "Convertir HEIC en JPG en Ligne",
+    "subheading": "Transformez vos clichés iPhone HEIC en images JPG universelles lisibles partout en conservant une qualité éclatante.",
+    "badge": "Le Plus Populaire • Compatibilité Universelle JPG",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "convertir heic en jpg",
+      "heic vers jpg en ligne",
+      "photo iphone en jpg"
+    ],
+    "features": [
+      "Compatible Windows, Android, Mac et TV",
+      "Téléchargement direct en ZIP",
+      "Sans inscription"
+    ],
+    "faqs": [
+      {
+        "question": "Y a-t-il une perte de qualité ?",
+        "answer": "À 92% de qualité par défaut, la différence est imperceptible à l’œil nu."
+      }
+    ]
+  },
+  "/heic-to-png": {
+    "slug": "heic-to-png",
+    "path": "/fr/heic-to-png",
+    "title": "Convertir HEIC en PNG en Ligne – Qualité Sans Perte & Transparence | HEIC2",
+    "description": "Convertissez HEIC en PNG sans aucune perte de qualité avec support de la transparence. Solution 100% privée pour graphistes et photographes.",
+    "h1": "Convertir HEIC en PNG en Ligne",
+    "subheading": "Convertissez vos photos Apple HEIC en PNG haute fidélité avec transparence intégrale pour la retouche et la création graphique.",
+    "badge": "Qualité Sans Perte • Support Transparence",
+    "defaultFormat": "png",
+    "keywords": [
+      "heic en png",
+      "convertir heic en png",
+      "heic sans perte png"
+    ],
+    "features": [
+      "Préservation parfaite de chaque pixel",
+      "Support du canal Alpha transparent",
+      "Parfait pour Photoshop"
+    ],
+    "faqs": [
+      {
+        "question": "Pourquoi utiliser le PNG ?",
+        "answer": "Le format PNG préserve chaque détail sans artefact de compression et supporte la transparence."
+      }
+    ]
+  },
+  "/heic-to-webp": {
+    "slug": "heic-to-webp",
+    "path": "/fr/heic-to-webp",
+    "title": "Convertir HEIC en WebP en Ligne – Format Web Moderne et Léger | HEIC2",
+    "description": "Transformez vos photos iPhone HEIC en images WebP modernes. Obtenez jusqu’à 35% de réduction de poids par rapport au JPG.",
+    "h1": "Convertir HEIC en WebP en Ligne",
+    "subheading": "Réduisez la taille de vos images sans sacrifier la netteté pour un affichage ultra rapide sur le web.",
+    "badge": "Format Web de Nouvelle Génération",
+    "defaultFormat": "webp",
+    "keywords": [
+      "heic en webp",
+      "convertir heic en webp",
+      "optimisation webp"
+    ],
+    "features": [
+      "Taille de fichier jusqu’à 35% plus faible que le JPG",
+      "Optimisation SEO et vitesse web"
+    ],
+    "faqs": [
+      {
+        "question": "Qu’est-ce que le format WebP ?",
+        "answer": "Un format développé par Google offrant une compression supérieure pour les pages web."
+      }
+    ]
+  },
+  "/batch-heic-converter": {
+    "slug": "batch-heic-converter",
+    "path": "/fr/batch-heic-converter",
+    "title": "Convertisseur HEIC par Lot – Convertissez Plusieurs Photos Simultanément | HEIC2",
+    "description": "Convertissez des dizaines de photos HEIC d’un coup dans votre navigateur en JPG, PNG ou WebP avec téléchargement ZIP rapide.",
+    "h1": "Convertisseur HEIC par Lot",
+    "subheading": "Traitez des dossiers entiers de photos iPhone en parallèle sur votre appareil et téléchargez une archive ZIP complète.",
+    "badge": "Traitement en Masse • Export ZIP",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "convertisseur heic par lot",
+      "convertir plusieurs photos heic",
+      "bulk heic converter"
+    ],
+    "features": [
+      "Traitement parallèle multi-cœurs",
+      "Téléchargement groupé en ZIP",
+      "Sans limite de fichiers"
+    ],
+    "faqs": [
+      {
+        "question": "Puis-je convertir 100 photos à la fois ?",
+        "answer": "Oui, notre moteur traite les fichiers par lot directement dans la mémoire de votre appareil."
+      }
+    ]
+  },
+  "/privacy-policy": {
+    "slug": "privacy-policy",
+    "path": "/fr/privacy-policy",
+    "title": "Politique de Confidentialité – HEIC2",
+    "description": "Vos photos ne quittent jamais votre appareil. HEIC2 Tools traite tous vos fichiers image 100% localement dans votre navigateur.",
+    "h1": "Politique de Confidentialité",
+    "subheading": "Vos photos ne quittent jamais votre appareil. HEIC2 Tools traite tous vos fichiers image 100% localement dans votre navigateur.",
+    "badge": "Architecture 100% Locale Sans Téléchargement Externe",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "privacy policy",
+      "heic privacy",
+      "zero upload privacy"
+    ],
+    "features": [
+      "100% Client-Side Processing",
+      "Zero Server Uploads",
+      "No Account Required"
+    ],
+    "faqs": []
+  },
+  "/terms": {
+    "slug": "terms",
+    "path": "/fr/terms",
+    "title": "Conditions d'Utilisation – HEIC2",
+    "description": "En utilisant HEIC2 Tools, vous acceptez ces conditions simples. Notre service est gratuit, sans inscription et fonctionne en local.",
+    "h1": "Conditions d'Utilisation",
+    "subheading": "En utilisant HEIC2 Tools, vous acceptez ces conditions simples. Notre service est gratuit, sans inscription et fonctionne en local.",
+    "badge": "Usage Libre et Transparent",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "terms of service",
+      "heic2 tools terms"
+    ],
+    "features": [
+      "Free Personal & Commercial Use",
+      "Full Image Ownership",
+      "Client-Side Execution"
+    ],
+    "faqs": []
+  },
+  "/about": {
+    "slug": "about",
+    "path": "/fr/about",
+    "title": "À Propos de HEIC2 Tools – HEIC2",
+    "description": "Nous avons développé HEIC2 Tools pour résoudre les problèmes d'incompatibilité du format HEIC Apple sans compromettre la vie privée de vos photos.",
+    "h1": "À Propos de HEIC2 Tools",
+    "subheading": "Nous avons développé HEIC2 Tools pour résoudre les problèmes d'incompatibilité du format HEIC Apple sans compromettre la vie privée de vos photos.",
+    "badge": "Technologie Centrée sur la Confidentialité",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "about heic2 tools",
+      "apple heic problem",
+      "webassembly image conversion"
+    ],
+    "features": [
+      "Zero Server Uploads",
+      "Client-Side WebAssembly",
+      "Lightning Fast"
+    ],
+    "faqs": []
+  },
+  "/contact": {
+    "slug": "contact",
+    "path": "/fr/contact",
+    "title": "Contact & Support – HEIC2",
+    "description": "Des remarques, des suggestions ou besoin d'une assistance technique ? Contactez notre équipe de développement.",
+    "h1": "Contact & Support",
+    "subheading": "Des remarques, des suggestions ou besoin d'une assistance technique ? Contactez notre équipe de développement.",
+    "badge": "À Votre Écoute",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "contact heic2 tools",
+      "technical support"
+    ],
+    "features": [
+      "Direct Email Support",
+      "24-48h Response Window"
+    ],
+    "faqs": []
+  }
+}

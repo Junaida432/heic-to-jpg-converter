@@ -1,0 +1,81 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/pl",
+    "title": "Konwerter HEIC – HEIC na JPG, PNG, WebP i PDF za darmo | HEIC2",
+    "description": "Zamień zdjęcia HEIC z iPhone’a na JPG, PNG, WebP lub PDF w przeglądarce. Zdjęcia nie opuszczają urządzenia. Konwersja wielu plików i pobieranie ZIP – za darmo, bez konta.",
+    "h1": "Konwertuj zdjęcia HEIC na JPG, PNG, WebP lub PDF",
+    "subheading": "Upuść zdjęcia z iPhone’a poniżej. Konwersja odbywa się na Twoim urządzeniu, więc nic nie jest wysyłane – bez konta i znaku wodnego.",
+    "badge": "",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "konwerter heic",
+      "heic na jpg",
+      "heic na png",
+      "heic na pdf",
+      "zdjęcia iphone jpg"
+    ],
+    "features": [
+      "Konwersja na urządzeniu – zdjęcia nie są wysyłane",
+      "Wyjście JPG, PNG, WebP i PDF",
+      "Konwersja wielu plików i pobranie ZIP",
+      "Regulowana jakość i maksymalny rozmiar"
+    ],
+    "faqs": [
+      {
+        "question": "Czym jest plik HEIC?",
+        "answer": "HEIC to format obrazu, którego Apple używa domyślnie od iOS 11. Stosuje kompresję HEVC, więc przy podobnej jakości jest mniejszy niż JPG, ale mniej zgodny."
+      },
+      {
+        "question": "Czy moje zdjęcia są wysyłane na serwer?",
+        "answer": "Nie. Plik HEIC jest dekodowany i ponownie kodowany w przeglądarce dzięki WebAssembly. Na karcie Sieć w narzędziach deweloperskich sam zobaczysz, że zdjęcie nigdzie nie trafia."
+      },
+      {
+        "question": "Na jaki format konwertować?",
+        "answer": "Jeśli nie masz pewności, wybierz JPG – otwiera się prawie wszędzie. PNG wybierz jako bezstratną kopię do edycji, WebP do stron internetowych, a PDF, gdy potrzebujesz dokumentu."
+      },
+      {
+        "question": "Czy konwersja obniża jakość?",
+        "answer": "JPG jest formatem stratnym, więc część szczegółów zostaje utracona. Przy jakości 90–92% różnicę trudno zauważyć. PNG zachowuje zdekodowane piksele dokładnie."
+      },
+      {
+        "question": "Czy skonwertowane pliki zachowują lokalizację i dane aparatu?",
+        "answer": "Nie. Zdjęcie jest rysowane od nowa i kodowane w przeglądarce, więc metadane, takie jak lokalizacja GPS i model aparatu, nie są przenoszone."
+      },
+      {
+        "question": "Ile zdjęć mogę konwertować naraz?",
+        "answer": "Nie ustawiamy limitu; decyduje pamięć urządzenia. Komputer poradzi sobie z dużymi partiami, na telefonie rozsądne jest 20–50 zdjęć naraz. Gdy zabraknie pamięci, konwertuj mniej zdjęć lub zmniejsz maksymalny rozmiar."
+      }
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "Stratna (jakość 50–100%)",
+        "transparency": "Nie",
+        "compatibility": "Otwiera się na prawie każdym urządzeniu, w każdej aplikacji i drukarce",
+        "bestFor": "Udostępnianie, e-mail, media społecznościowe, druk"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "Bezstratna",
+        "transparency": "Tak",
+        "compatibility": "Otwiera się na prawie każdym urządzeniu i w każdej aplikacji",
+        "bestFor": "Edycja, grafika, bezstratna kopia"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "Stratna (jakość 50–100%)",
+        "transparency": "Tak",
+        "compatibility": "Nowoczesne przeglądarki i wiele aplikacji",
+        "bestFor": "Strony internetowe i blogi"
+      },
+      {
+        "formatName": "PDF",
+        "compression": "Obraz JPEG na stronie PDF",
+        "transparency": "Nie",
+        "compatibility": "Każdy czytnik PDF",
+        "bestFor": "Dokumenty, formularze, druk"
+      }
+    ]
+  }
+}

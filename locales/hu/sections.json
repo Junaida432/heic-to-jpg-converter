@@ -1,0 +1,61 @@
+[
+  {
+    "id": "privacy",
+    "h2": "A fényképei nem hagyják el az eszközét",
+    "blocks": [
+      {
+        "t": "p",
+        "text": "A HEIC az a fényképformátum, amelyet az iPhone és az iPad alapértelmezés szerint használ. Helyet takarít meg, de sok Windows-számítógép, Android-telefon, weboldal és nyomdai szolgáltatás nem tudja megnyitni. A HEIC2 JPG-, PNG-, WebP- vagy PDF-formátumra alakítja, hogy a fényképei mindenhol működjenek."
+      },
+      {
+        "t": "p",
+        "text": "Az átalakítás a böngészőfülön belül történik: egy WebAssemblyre fordított HEIC-dekóder (libheif) a háttérben beolvassa a fájlt, a böngésző pedig a kiválasztott formátumban kódolja újra. A fénykép nem kerül el egyetlen szerverre sem. Ezt maga is ellenőrizheti: nyissa meg a fejlesztői eszközöket, lépjen a Hálózat (Network) fülre, és alakítson át egy fényképet – nem fog feltöltést látni."
+      }
+    ]
+  },
+  {
+    "id": "formats",
+    "h2": "Melyik kimeneti formátumot válassza?",
+    "blocks": [
+      {
+        "t": "ul",
+        "items": [
+          "**JPG**: a legjobb kompatibilitás, ideális megosztáshoz, e-mailhez, közösségi médiához és nyomtatáshoz.",
+          "**PNG**: veszteségmentes, hasznos, ha tovább szerkeszt, de gyakran sokkal nagyobb, mint a JPG.",
+          "**WebP**: kisebb fájlok weboldalakhoz és blogokhoz; egyes böngészők, például a Safari, esetleg nem tudják menteni.",
+          "**PDF**: fényképek dokumentumként való elküldéséhez vagy kinyomtatásához; több fénykép is egyesíthető egy PDF-ben."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "quality",
+    "h2": "Így érheti el a legjobb minőséget",
+    "blocks": [
+      {
+        "t": "ul",
+        "items": [
+          "JPG-nél válasszon 90–92%-ot: 100%-nál a fájl jóval nagyobb lesz látható különbség nélkül.",
+          "Kisebb fájlokhoz állítsa a „Maximális méretet” 2048 px-re.",
+          "Az átalakított fájlok nem tartalmazzák az eredeti metaadatokat (kamera, GPS-helyzet). Ez jó az adatvédelemnek; ha szüksége van rájuk, őrizze meg az eredeti HEIC-fájlt.",
+          "A Live Photóból csak az állókép alakul át."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "problems",
+    "h2": "Ha egy fénykép nem alakítható át",
+    "blocks": [
+      {
+        "t": "ol",
+        "items": [
+          "Próbálja ki a Chrome, az Edge vagy a Firefox aktuális verzióját.",
+          "Alakítson át egyszerre kevesebb fényképet, vagy csökkentse a maximális méretet – a nagyon nagy fényképek meghaladhatják a telefon memóriáját.",
+          "Ellenőrizze, hogy a fájl valóban HEIC-e, nem átnevezett vagy csak részben másolt fájl.",
+          "Ha továbbra sem működik, [írjon nekünk](/contact) a böngésző és az operációs rendszer megadásával."
+        ]
+      }
+    ]
+  }
+]

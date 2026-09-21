@@ -1,0 +1,21 @@
+{
+  "dropAnywhere": "גררו קבצים לכל מקום בתיבה",
+  "freePrivate": "חינם ופרטי",
+  "files": "קבצים",
+  "file": "קובץ",
+  "resizeLabel": "גודל מרבי",
+  "resizeOriginal": "מקורי",
+  "pdfCombine": "איחוד כל התמונות ל-PDF אחד",
+  "pdfPage": "גודל עמוד",
+  "pdfPageImage": "כמו התמונה",
+  "removeFile": "הסרת קובץ",
+  "zipping": "מכינים ZIP…",
+  "downloadPdf": "הורדת PDF",
+  "losslessNote": "PNG הוא ללא אובדן איכות, ולכן אין הגדרת איכות",
+  "notHeic": "זו אינה תמונת HEIC/HEIF ולכן היא דולגה.",
+  "webpUnsupported": "דפדפן זה אינו יכול לשמור WebP. השתמשו ב-Chrome, ב-Edge או ב-Firefox, או בחרו JPG או PNG.",
+  "tooLarge": "התמונה גדולה מדי לזיכרון המכשיר. נסו גודל מרבי קטן יותר.",
+  "genericError": "לא ניתן היה להמיר את הקובץ. נסו דפדפן אחר או ייצאו את התמונה מחדש.",
+  "addMore": "הוספת תמונות",
+  "processedLocally": "ההמרה מתבצעת במכשיר שלכם – שום דבר לא מועלה"
+}

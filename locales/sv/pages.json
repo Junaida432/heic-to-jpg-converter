@@ -1,0 +1,81 @@
+{
+  "/": {
+    "slug": "",
+    "path": "/sv",
+    "title": "HEIC-konverterare – HEIC till JPG, PNG, WebP och PDF gratis | HEIC2",
+    "description": "Konvertera iPhone-bilder i HEIC till JPG, PNG, WebP eller PDF i webbläsaren. Bilderna lämnar aldrig din enhet. Massomvandling och ZIP-nedladdning – gratis, utan konto.",
+    "h1": "Konvertera HEIC-bilder till JPG, PNG, WebP eller PDF",
+    "subheading": "Släpp dina iPhone-bilder nedan. De konverteras på din enhet, så inget laddas upp – inget konto och ingen vattenstämpel.",
+    "badge": "",
+    "defaultFormat": "jpeg",
+    "keywords": [
+      "heic konverterare",
+      "heic till jpg",
+      "heic till png",
+      "heic till pdf",
+      "iphone bild jpg"
+    ],
+    "features": [
+      "Konverteras på din enhet – bilderna laddas inte upp",
+      "JPG-, PNG-, WebP- och PDF-utdata",
+      "Massomvandling med ZIP-nedladdning",
+      "Justerbar kvalitet och största storlek"
+    ],
+    "faqs": [
+      {
+        "question": "Vad är en HEIC-fil?",
+        "answer": "HEIC är bildformatet som Apple använder som standard sedan iOS 11. Det använder HEVC-komprimering och är vid liknande bildkvalitet mindre än JPG, men mindre kompatibelt."
+      },
+      {
+        "question": "Laddas mina bilder upp till en server?",
+        "answer": "Nej. HEIC-filen avkodas och kodas om i din webbläsare med WebAssembly. På fliken Nätverk i utvecklarverktygen kan du själv se att bilden inte skickas någonstans."
+      },
+      {
+        "question": "Vilket format ska jag konvertera till?",
+        "answer": "Är du osäker, välj JPG – det öppnas nästan överallt. Välj PNG för en förlustfri redigeringskopia, WebP för webbplatser och PDF när du behöver ett dokument."
+      },
+      {
+        "question": "Försämras kvaliteten vid konvertering?",
+        "answer": "JPG är ett förlustbärande format, så lite detaljer går förlorade. Vid 90–92 % kvalitet är skillnaden svår att se. PNG behåller de avkodade pixlarna exakt."
+      },
+      {
+        "question": "Behåller de konverterade filerna plats och kamerauppgifter?",
+        "answer": "Nej. Bilden ritas om och kodas i din webbläsare, så metadata som GPS-plats och kameramodell följer inte med."
+      },
+      {
+        "question": "Hur många bilder kan jag konvertera samtidigt?",
+        "answer": "Vi sätter ingen gräns; enhetens minne avgör. En dator klarar stora omgångar, på en telefon är 20–50 bilder åt gången lagom. Om minnet tar slut – konvertera färre bilder eller minska största storlek."
+      }
+    ],
+    "tableData": [
+      {
+        "formatName": "JPG",
+        "compression": "Förlustbärande (kvalitet 50–100 %)",
+        "transparency": "Nej",
+        "compatibility": "Öppnas på nästan alla enheter, appar och skrivare",
+        "bestFor": "Delning, e-post, sociala medier, utskrift"
+      },
+      {
+        "formatName": "PNG",
+        "compression": "Förlustfri",
+        "transparency": "Ja",
+        "compatibility": "Öppnas på nästan alla enheter och appar",
+        "bestFor": "Redigering, grafik, förlustfri kopia"
+      },
+      {
+        "formatName": "WebP",
+        "compression": "Förlustbärande (kvalitet 50–100 %)",
+        "transparency": "Ja",
+        "compatibility": "Moderna webbläsare och många appar",
+        "bestFor": "Webbplatser och bloggar"
+      },
+      {
+        "formatName": "PDF",
+        "compression": "JPEG-bild på en PDF-sida",
+        "transparency": "Nej",
+        "compatibility": "Alla PDF-läsare",
+        "bestFor": "Dokument, formulär, utskrift"
+      }
+    ]
+  }
+}

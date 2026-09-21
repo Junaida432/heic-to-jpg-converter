@@ -1,0 +1,22 @@
+{
+  "short_name": "HEIC2",
+  "name": "HEIC2 – HEIC to JPG, PNG, WebP & PDF converter",
+  "description": "Convert HEIC photos to JPG, PNG, WebP or PDF in your browser. Photos are never uploaded.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "display": "standalone",
+  "orientation": "any"
+}

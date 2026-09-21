@@ -1,0 +1,21 @@
+{
+  "dropAnywhere": "Upuść pliki w dowolnym miejscu tego pola",
+  "freePrivate": "Za darmo i prywatnie",
+  "files": "plików",
+  "file": "plik",
+  "resizeLabel": "Maksymalny rozmiar",
+  "resizeOriginal": "Oryginał",
+  "pdfCombine": "Połącz wszystkie zdjęcia w jeden plik PDF",
+  "pdfPage": "Rozmiar strony",
+  "pdfPageImage": "Jak zdjęcie",
+  "removeFile": "Usuń plik",
+  "zipping": "Przygotowywanie ZIP…",
+  "downloadPdf": "Pobierz PDF",
+  "losslessNote": "PNG jest bezstratny, więc nie ma ustawienia jakości",
+  "notHeic": "To nie jest zdjęcie HEIC/HEIF, więc zostało pominięte.",
+  "webpUnsupported": "Ta przeglądarka nie potrafi zapisać WebP. Użyj Chrome, Edge lub Firefox albo wybierz JPG lub PNG.",
+  "tooLarge": "To zdjęcie jest zbyt duże dla pamięci urządzenia. Spróbuj mniejszego maksymalnego rozmiaru.",
+  "genericError": "Nie udało się przekonwertować tego pliku. Spróbuj innej przeglądarki lub wyeksportuj zdjęcie ponownie.",
+  "addMore": "Dodaj więcej zdjęć",
+  "processedLocally": "Konwersja na Twoim urządzeniu – nic nie jest wysyłane"
+}
